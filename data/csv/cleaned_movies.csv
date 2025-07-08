@@ -1,0 +1,956 @@
+Movie_Name,Rating,Voting_Counts,Duration_Total,Genre,Duration_Minutes,Duration_Category,Duration
+Nosferatu,7.2,212000.0,2h 12m,Horror,132.0,120-150 min,2–3 hrs
+Heretic,7.0,164000.0,1h 51m,Horror,111.0,Standard,< 2 hrs
+The Substance,7.2,320000.0,2h 21m,Horror,141.0,120-150 min,2–3 hrs
+Please Don't Feed the Children,4.9,343.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Presence,6.1,30000.0,1h 24m,Horror,84.0,Short,< 2 hrs
+Speak No Evil,6.8,111000.0,1h 50m,Horror,110.0,Standard,< 2 hrs
+Alien: Romulus,7.1,255000.0,1h 59m,Horror,119.0,Standard,< 2 hrs
+Longlegs,6.6,194000.0,1h 41m,Horror,101.0,Standard,< 2 hrs
+Kinds of Kindness,6.5,61000.0,2h 44m,Horror,164.0,150+ min,2–3 hrs
+Beetlejuice Beetlejuice,6.6,155000.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Salem's Lot,5.6,35000.0,1h 54m,Horror,114.0,Standard,< 2 hrs
+Smile 2,6.7,115000.0,2h 7m,Horror,127.0,120-150 min,2–3 hrs
+Trap,5.8,146000.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+I Don't Understand You,5.5,713.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+Abigail,6.5,101000.0,1h 49m,Horror,109.0,Standard,< 2 hrs
+MaXXXine,6.2,74000.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+A Quiet Place: Day One,6.3,155000.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+The Shrouds,5.8,3900.0,,Horror,,150+ min,3–4 hrs
+Oddity,6.7,47000.0,1h 38m,Horror,98.0,Standard,< 2 hrs
+Terrifier 3,6.3,52000.0,2h 5m,Horror,125.0,120-150 min,2–3 hrs
+The Strangers: Chapter 1,4.6,23000.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+Don't Move,5.8,41000.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+The Crow,4.7,37000.0,1h 51m,Horror,111.0,Standard,< 2 hrs
+Witchboard,7.5,113.0,1h 52m,Horror,112.0,Standard,< 2 hrs
+Cuckoo,5.7,29000.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+The Rule of Jenny Pen,6.2,6100.0,1h 44m,Horror,104.0,Standard,< 2 hrs
+Immaculate,5.8,54000.0,1h 29m,Horror,89.0,Short,< 2 hrs
+The Watchers,5.7,59000.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+Time Cut,5.0,20000.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+MadS,6.4,8900.0,1h 29m,Horror,89.0,Short,< 2 hrs
+The Damned,5.7,5700.0,1h 29m,Horror,89.0,Short,< 2 hrs
+1978,5.2,582.0,1h 16m,Horror,76.0,Short,< 2 hrs
+Survive,4.6,3200.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+Monster Island,6.1,94.0,1h 23m,Horror,83.0,Short,< 2 hrs
+Nightbitch,5.5,21000.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Saint Clare,7.1,116.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Arcadian,5.5,25000.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Apartment 7A,5.9,17000.0,1h 47m,Horror,107.0,Standard,< 2 hrs
+Night Swim,4.7,28000.0,1h 38m,Horror,98.0,Standard,< 2 hrs
+Never Let Go,5.4,16000.0,1h 41m,Horror,101.0,Standard,< 2 hrs
+Strange Harvest,6.8,78.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Y2K,4.8,16000.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+Exhuma,6.9,25000.0,2h 14m,Horror,134.0,120-150 min,2–3 hrs
+The First Omen,6.5,66000.0,1h 59m,Horror,119.0,Standard,< 2 hrs
+Apocalypse Z: The Beginning of the End,6.1,21000.0,1h 57m,Horror,117.0,Standard,< 2 hrs
+Outbreak,4.4,1200.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Bone Lake,,,1h 34m,Horror,94.0,Standard,< 2 hrs
+Azrael,5.4,12000.0,1h 26m,Horror,86.0,Short,< 2 hrs
+The Deliverance,5.1,23000.0,1h 52m,Horror,112.0,Standard,< 2 hrs
+Dead Mail,6.0,2100.0,1h 46m,Horror,106.0,Standard,< 2 hrs
+Get Away,5.3,7600.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Your Monster,6.4,6400.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Under Paris,5.2,37000.0,1h 44m,Horror,104.0,Standard,< 2 hrs
+Out Come the Wolves,4.7,1700.0,1h 26m,Horror,86.0,Short,< 2 hrs
+In a Violent Nature,5.6,28000.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Tarot,4.8,33000.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Stree 2: Sarkate Ka Aatank,6.9,43000.0,2h 27m,Horror,147.0,120-150 min,2–3 hrs
+The Devil's Bath,6.6,6800.0,2h 1m,Horror,121.0,120-150 min,2–3 hrs
+Frewaka,6.1,1500.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Beezel,4.9,1500.0,1h 21m,Horror,81.0,Short,< 2 hrs
+Hellboy: The Crooked Man,4.5,15000.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+A Desert,5.9,352.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Chime,6.4,2700.0,,Horror,,150+ min,3–4 hrs
+Sting,5.7,17000.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+Lisa Frankenstein,6.1,29000.0,1h 41m,Horror,101.0,Standard,< 2 hrs
+Ghost Killer,6.8,87.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Die Alone,5.8,4000.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+Rumours,4.9,5200.0,1h 44m,Horror,104.0,Standard,< 2 hrs
+The Beldham,7.0,48.0,1h 25m,Horror,85.0,Short,< 2 hrs
+The Wailing,6.1,1700.0,1h 47m,Horror,107.0,Standard,< 2 hrs
+The Platform 2,4.9,41000.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Succubus,4.6,1400.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Lowlifes,6.2,6800.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+The Beast Within,4.3,5300.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+Grafted,5.6,2600.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+A Sacrifice,5.0,5800.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+The Master and Margarita,7.2,5000.0,2h 36m,Horror,156.0,150+ min,2–3 hrs
+Swap,2.9,371.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Blood Star,6.4,6200.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+Werewolves,4.4,7600.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+The Balconettes,5.8,1400.0,1h 44m,Horror,104.0,Standard,< 2 hrs
+Afraid,5.2,15000.0,1h 24m,Horror,84.0,Short,< 2 hrs
+The Twin,8.1,68.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+The Banished,5.6,29.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+Dan Da Dan: First Encounter,8.2,3000.0,1h 23m,Horror,83.0,Short,< 2 hrs
+Shaitaan,6.5,55000.0,2h 12m,Horror,132.0,120-150 min,2–3 hrs
+The Exorcism,4.2,12000.0,1h 35m,Horror,95.0,Standard,< 2 hrs
+Humane,5.5,7600.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Bogieville,4.1,639.0,1h 48m,Horror,108.0,Standard,< 2 hrs
+Ick,5.5,221.0,1h 27m,Horror,87.0,Short,< 2 hrs
+Bhool Bhulaiyaa 3,4.6,78000.0,2h 38m,Horror,158.0,150+ min,2–3 hrs
+V/H/S/Beyond,5.8,9900.0,1h 54m,Horror,114.0,Standard,< 2 hrs
+Push,,,1h 29m,Horror,89.0,Short,< 2 hrs
+Bramayugam,7.8,15000.0,2h 19m,Horror,139.0,120-150 min,2–3 hrs
+Daddy's Head,5.6,5500.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Outside,5.1,4800.0,2h 22m,Horror,142.0,120-150 min,2–3 hrs
+Shell,6.8,78.0,1h 40m,Horror,100.0,Standard,< 2 hrs
+Bagman,4.7,6300.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Queen of Bones,4.7,265.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+Bleeding,4.3,353.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+The Severed Sun,4.9,349.0,1h 20m,Horror,80.0,Short,< 2 hrs
+Went Up the Hill,6.6,88.0,1h 40m,Horror,100.0,Standard,< 2 hrs
+Here After,4.2,1700.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Blackwater Lane,4.6,2300.0,1h 48m,Horror,108.0,Standard,< 2 hrs
+Dead Talents Society,7.0,2600.0,1h 51m,Horror,111.0,Standard,< 2 hrs
+Compulsion,6.9,32.0,,Horror,,150+ min,3–4 hrs
+Sumala,5.8,1200.0,1h 52m,Horror,112.0,Standard,< 2 hrs
+The Last Breath,4.7,2500.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+Munjya,6.3,26000.0,2h 3m,Horror,123.0,120-150 min,2–3 hrs
+The Inheritance,4.7,3100.0,1h 25m,Horror,85.0,Short,< 2 hrs
+We Bury the Dead,6.9,123.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Winnie-the-Pooh: Blood and Honey 2,4.7,12000.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+The Curse of the Necklace,4.5,1400.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+The Corpse Washer,6.1,1300.0,1h 47m,Horror,107.0,Standard,< 2 hrs
+The Painted,4.8,1100.0,1h 25m,Horror,85.0,Short,< 2 hrs
+Hold Your Breath,5.3,8900.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+You Can't Run Forever,4.5,4400.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+The Front Room,4.6,5700.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Turno Nocturno,5.3,687.0,1h 47m,Horror,107.0,Standard,< 2 hrs
+Cloud,6.3,1600.0,2h 4m,Horror,124.0,120-150 min,2–3 hrs
+Something in the Water,4.1,5000.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Grave Torture,6.2,3100.0,1h 57m,Horror,117.0,Standard,< 2 hrs
+Kryptic,4.1,618.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+Shelby Oaks,5.8,259.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Things Will Be Different,5.2,2800.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+Drive Back,4.5,650.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Sayuri,6.4,342.0,1h 48m,Horror,108.0,Standard,< 2 hrs
+The Vampire Next Door,4.6,795.0,1h 50m,Horror,110.0,Standard,< 2 hrs
+Lembayung,5.9,780.0,2h 3m,Horror,123.0,120-150 min,2–3 hrs
+Pedro Páramo,6.3,3100.0,2h 10m,Horror,130.0,120-150 min,2–3 hrs
+Wynonna Earp: Vengeance,5.5,1700.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+Year 10,5.4,2000.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+Handling the Undead,5.3,4600.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+The Radleys,5.0,2900.0,1h 55m,Horror,115.0,Standard,< 2 hrs
+The Matriarch,6.4,23.0,1h 22m,Horror,82.0,Short,< 2 hrs
+Death's Sonata,8.4,464.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Imaginary,4.7,18000.0,1h 44m,Horror,104.0,Standard,< 2 hrs
+Noise,6.3,87.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+River of Blood,5.0,2000.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Latency,4.2,2900.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Milk & Serial,6.6,2700.0,1h 2m,Horror,62.0,Short,< 2 hrs
+Black,7.1,2900.0,1h 55m,Horror,115.0,Standard,< 2 hrs
+Stream,5.9,9500.0,2h 3m,Horror,123.0,120-150 min,2–3 hrs
+Ghost Train,,,1h 34m,Horror,94.0,Standard,< 2 hrs
+The Haunted Apartment: Miss K,5.6,484.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+The Forbidden Camp: Mass Possession,6.1,370.0,1h 52m,Horror,112.0,Standard,< 2 hrs
+Bystanders,3.9,373.0,1h 22m,Horror,82.0,Short,< 2 hrs
+Devon,2.6,307.0,1h 12m,Horror,72.0,Short,< 2 hrs
+The Moogai,5.4,393.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Night of the Zoopocalypse,6.1,940.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+Rippy,4.2,978.0,1h 23m,Horror,83.0,Short,< 2 hrs
+The Killgrin,6.2,79.0,1h 23m,Horror,83.0,Short,< 2 hrs
+Pins & Needles,6.7,23.0,1h 35m,Horror,95.0,Standard,< 2 hrs
+Carved,4.4,2900.0,1h 35m,Horror,95.0,Standard,< 2 hrs
+Destroy All Neighbors,5.3,2100.0,1h 25m,Horror,85.0,Short,< 2 hrs
+House of Spoils,5.0,4000.0,1h 41m,Horror,101.0,Standard,< 2 hrs
+Test Screening,6.9,68.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Bureau 749,3.9,582.0,2h 3m,Horror,123.0,120-150 min,2–3 hrs
+Krazy House,4.8,1500.0,1h 29m,Horror,89.0,Short,< 2 hrs
+Room Service,3.9,323.0,,Horror,,150+ min,3–4 hrs
+The Mouse Trap,2.5,3600.0,1h 20m,Horror,80.0,Short,< 2 hrs
+The Waves of Madness,5.8,112.0,1h 8m,Horror,68.0,Short,< 2 hrs
+The Dead Thing,4.7,1000.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Munkar,5.2,557.0,1h 27m,Horror,87.0,Short,< 2 hrs
+The Containment,4.6,59.0,1h 22m,Horror,82.0,Short,< 2 hrs
+Handsome Guys,6.5,975.0,1h 41m,Horror,101.0,Standard,< 2 hrs
+Dominion of Darkness,5.6,858.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+Spin the Bottle,3.5,1100.0,2h 4m,Horror,124.0,120-150 min,2–3 hrs
+Jimmy and Stiggs,6.1,83.0,1h 20m,Horror,80.0,Short,< 2 hrs
+Fear Cabin: The Last Weekend of Summer,3.2,10.0,1h 17m,Horror,77.0,Short,< 2 hrs
+Slay,6.5,1200.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Peripheral,9.4,32.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Baby Invasion,4.6,587.0,1h 20m,Horror,80.0,Short,< 2 hrs
+H. P. Lovecraft's the Old Ones,3.6,412.0,1h 24m,Horror,84.0,Short,< 2 hrs
+Sunrise,3.9,1200.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Mr. Crocket,5.4,4900.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Iconic,6.9,428.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+Conjuring the Cult,4.6,935.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Possessions,3.8,880.0,1h 29m,Horror,89.0,Short,< 2 hrs
+Its Name Was Mormo,3.7,155.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Anaconda,4.9,673.0,1h 24m,Horror,84.0,Short,< 2 hrs
+Scopophobia,5.4,85.0,1h 40m,Horror,100.0,Standard,< 2 hrs
+Spiders on a Plane,4.7,400.0,1h 18m,Horror,78.0,Short,< 2 hrs
+The Soul Eater,5.8,3000.0,1h 48m,Horror,108.0,Standard,< 2 hrs
+The Jack in the Box Rises,4.1,831.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Strange Frequencies: Taiwan Killer Hospital,7.3,74.0,1h 31m,Horror,91.0,Standard,< 2 hrs
+Dark Match,5.4,1200.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Continente,5.2,94.0,1h 55m,Horror,115.0,Standard,< 2 hrs
+Ghost Game,3.4,365.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Riders,6.4,511.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Crescent City,3.9,1500.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+The Bunker,4.3,357.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+Unspeakable: Beyond the Wall of Sleep,4.9,124.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+Up the Catalogue,8.8,5.0,,Horror,,150+ min,3–4 hrs
+Chainsaws Were Singing,7.2,386.0,1h 57m,Horror,117.0,Standard,< 2 hrs
+Heretics,3.9,98.0,1h 23m,Horror,83.0,Short,< 2 hrs
+Interlopers,5.0,73.0,1h 46m,Horror,106.0,Standard,< 2 hrs
+Saint Catherine,3.5,250.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Solvent,7.1,454.0,1h 34m,Horror,94.0,Standard,< 2 hrs
+Cinderella's Curse,3.4,1400.0,1h 22m,Horror,82.0,Short,< 2 hrs
+Chain Reactions,7.1,111.0,1h 43m,Horror,103.0,Standard,< 2 hrs
+Hell Hole,4.5,1300.0,1h 32m,Horror,92.0,Standard,< 2 hrs
+X Files,2.3,68.0,1h 14m,Horror,74.0,Short,< 2 hrs
+Little Bites,4.7,1300.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Barda,4.6,663.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Dr. Sander's Sleep Cure,6.4,1000.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+Street Trash,4.5,953.0,1h 25m,Horror,85.0,Short,< 2 hrs
+Kuang Bao Ju Xi,5.6,86.0,1h 15m,Horror,75.0,Short,< 2 hrs
+Frankie Freako,5.6,1300.0,1h 25m,Horror,85.0,Short,< 2 hrs
+The Ceremony Is About to Begin,4.5,821.0,1h 10m,Horror,70.0,Short,< 2 hrs
+The North Witch,4.9,50.0,1h 20m,Horror,80.0,Short,< 2 hrs
+Terminator: Skynet Rising,6.7,283.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Tantra,5.0,2400.0,2h 16m,Horror,136.0,120-150 min,2–3 hrs
+Butchers Book Two: Raghorn,4.1,666.0,1h 28m,Horror,88.0,Short,< 2 hrs
+The Woods,4.0,68.0,1h 16m,Horror,76.0,Short,< 2 hrs
+Crackcoon,3.6,451.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Mononoke the Movie: The Phantom in the Rain,6.7,1400.0,1h 29m,Horror,89.0,Short,< 2 hrs
+Scurry,7.6,26.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+I Heart Willie,6.1,117.0,1h 28m,Horror,88.0,Short,< 2 hrs
+Granny,8.0,7.0,,Horror,,150+ min,3–4 hrs
+The Demon Disorder,4.8,1300.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Trope,4.1,35.0,1h 26m,Horror,86.0,Short,< 2 hrs
+People in the Walls,3.2,48.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Grotesque 2,6.1,599.0,,Horror,,150+ min,3–4 hrs
+Dirty Boy,7.8,35.0,1h 38m,Horror,98.0,Standard,< 2 hrs
+Goldilocks and the Three Bears: Death and Porridge,2.1,1900.0,1h 22m,Horror,82.0,Short,< 2 hrs
+The Ruse,7.4,422.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Sengkolo: Malam satu suro,5.8,62.0,1h 40m,Horror,100.0,Standard,< 2 hrs
+Invasive,5.6,801.0,1h 37m,Horror,97.0,Standard,< 2 hrs
+Sakaratul Maut,5.4,189.0,1h 47m,Horror,107.0,Standard,< 2 hrs
+Else,6.0,276.0,1h 42m,Horror,102.0,Standard,< 2 hrs
+Lumina,2.1,709.0,1h 53m,Horror,113.0,Standard,< 2 hrs
+Hunting Matthew Nichols,8.8,45.0,1h 36m,Horror,96.0,Standard,< 2 hrs
+Heresy,6.9,316.0,1h 1m,Horror,61.0,Short,< 2 hrs
+History of Evil,3.4,833.0,1h 38m,Horror,98.0,Standard,< 2 hrs
+Cadi,6.3,4400.0,2h 14m,Horror,134.0,120-150 min,2–3 hrs
+Stupid Games,4.2,428.0,1h 26m,Horror,86.0,Short,< 2 hrs
+Where is My Head?,6.8,84.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+The Mermaid,9.6,15.0,1h 45m,Horror,105.0,Standard,< 2 hrs
+Kang Mak,6.4,893.0,2h 2m,Horror,122.0,120-150 min,2–3 hrs
+In Search of Darkness 1990-1994: A Journey Into Iconic '90s Horror,7.9,157.0,6h 3m,Horror,363.0,150+ min,3–4 hrs
+Massacre at Femur Creek,6.6,571.0,1h 22m,Horror,82.0,Short,< 2 hrs
+Curse of the Sin Eater,4.9,804.0,1h 30m,Horror,90.0,Standard,< 2 hrs
+An Intruder Among Us,9.4,20.0,,Horror,,150+ min,3–4 hrs
+All Hallows' Eve: Inferno,4.3,133.0,1h 14m,Horror,74.0,Short,< 2 hrs
+Sea of Madness,6.9,30.0,1h 33m,Horror,93.0,Standard,< 2 hrs
+Bigfoot Exorcist,2.7,226.0,1h 10m,Horror,70.0,Short,< 2 hrs
+Broken Bird,5.7,127.0,1h 39m,Horror,99.0,Standard,< 2 hrs
+Demonte Colony 2,6.6,4600.0,2h 24m,Horror,144.0,120-150 min,2–3 hrs
+Gladiator II,6.5,255000.0,2h 28m,Action,148.0,120-150 min,2–3 hrs
+Dune: Part Two,8.5,645000.0,2h 46m,Action,166.0,150+ min,2–3 hrs
+Fight or Flight,6.4,15000.0,1h 42m,Action,102.0,Standard,< 2 hrs
+Twisters,6.5,176000.0,2h 2m,Action,122.0,120-150 min,2–3 hrs
+Kraven the Hunter,5.5,64000.0,2h 7m,Action,127.0,120-150 min,2–3 hrs
+Deadpool & Wolverine,7.5,509000.0,2h 8m,Action,128.0,120-150 min,2–3 hrs
+The Ministry of Ungentlemanly Warfare,6.8,140000.0,2h 2m,Action,122.0,120-150 min,2–3 hrs
+Sonic the Hedgehog 3,6.9,66000.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Carry-On,6.5,173000.0,1h 59m,Action,119.0,Standard,< 2 hrs
+Civil War,7.0,244000.0,1h 49m,Action,109.0,Standard,< 2 hrs
+The Beekeeper,6.3,163000.0,1h 45m,Action,105.0,Standard,< 2 hrs
+Venom: The Last Dance,6.0,131000.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Furiosa: A Mad Max Saga,7.5,292000.0,2h 28m,Action,148.0,120-150 min,2–3 hrs
+Land of Bad,6.6,53000.0,1h 53m,Action,113.0,Standard,< 2 hrs
+The Fall Guy,6.8,228000.0,2h 6m,Action,126.0,120-150 min,2–3 hrs
+The Count of Monte-Cristo,7.6,38000.0,2h 58m,Action,178.0,150+ min,2–3 hrs
+Road House,6.2,171000.0,2h 1m,Action,121.0,120-150 min,2–3 hrs
+Rebel Ridge,6.8,91000.0,2h 11m,Action,131.0,120-150 min,2–3 hrs
+Role Play,5.5,19000.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Argylle,5.6,94000.0,2h 19m,Action,139.0,120-150 min,2–3 hrs
+40 Acres,6.9,448.0,1h 53m,Action,113.0,Standard,< 2 hrs
+Borderlands,4.7,51000.0,1h 41m,Action,101.0,Standard,< 2 hrs
+Transformers One,7.6,55000.0,1h 44m,Action,104.0,Standard,< 2 hrs
+Freaky Tales,6.2,7500.0,1h 47m,Action,107.0,Standard,< 2 hrs
+The Unholy Trinity,6.0,559.0,1h 35m,Action,95.0,Standard,< 2 hrs
+The Killer,5.7,14000.0,2h 6m,Action,126.0,120-150 min,2–3 hrs
+Damsel,6.1,112000.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Madame Web,4.1,104000.0,1h 56m,Action,116.0,Standard,< 2 hrs
+William Tell,5.7,3200.0,2h 14m,Action,134.0,120-150 min,2–3 hrs
+The Union,5.4,54000.0,1h 47m,Action,107.0,Standard,< 2 hrs
+Bad Boys: Ride or Die,6.5,103000.0,1h 55m,Action,115.0,Standard,< 2 hrs
+Dirty Angels,4.4,4200.0,1h 44m,Action,104.0,Standard,< 2 hrs
+Kingdom of the Planet of the Apes,6.8,155000.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+Maharaja,8.4,71000.0,2h 21m,Action,141.0,120-150 min,2–3 hrs
+Godzilla x Kong: The New Empire,6.0,124000.0,1h 55m,Action,115.0,Standard,< 2 hrs
+Homestead,5.2,4200.0,1h 52m,Action,112.0,Standard,< 2 hrs
+Absolution,5.2,9000.0,1h 52m,Action,112.0,Standard,< 2 hrs
+Monkey Man,6.8,94000.0,2h 1m,Action,121.0,120-150 min,2–3 hrs
+Red One,6.3,143000.0,2h 3m,Action,123.0,120-150 min,2–3 hrs
+The Instigators,6.2,39000.0,1h 41m,Action,101.0,Standard,< 2 hrs
+The Lord of the Rings: The War of the Rohirrim,6.3,33000.0,2h 14m,Action,134.0,120-150 min,2–3 hrs
+Old Guy,5.2,3200.0,1h 34m,Action,94.0,Standard,< 2 hrs
+Kung Fu Panda 4,6.3,71000.0,1h 34m,Action,94.0,Standard,< 2 hrs
+Drive-Away Dolls,5.4,24000.0,1h 24m,Action,84.0,Short,< 2 hrs
+Elevation,5.6,24000.0,1h 31m,Action,91.0,Standard,< 2 hrs
+The Killer's Game,5.8,18000.0,1h 44m,Action,104.0,Standard,< 2 hrs
+Lift,5.5,50000.0,1h 47m,Action,107.0,Standard,< 2 hrs
+Take Cover,5.1,2900.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Thelma,7.0,24000.0,1h 38m,Action,98.0,Standard,< 2 hrs
+Attack on Titan the Movie: The Last Attack,9.1,18000.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+Beverly Hills Cop: Axel F,6.4,83000.0,1h 58m,Action,118.0,Standard,< 2 hrs
+Relay,7.4,137.0,1h 52m,Action,112.0,Standard,< 2 hrs
+Blitz,6.2,17000.0,,Action,,150+ min,3–4 hrs
+Uglies,4.7,34000.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Atlas,5.6,57000.0,1h 58m,Action,118.0,Standard,< 2 hrs
+Gunner,3.2,2900.0,1h 46m,Action,106.0,Standard,< 2 hrs
+Pushpa: The Rule - Part 2,6.1,59000.0,3h 21m,Action,201.0,150+ min,3–4 hrs
+The Prosecutor,6.6,2700.0,1h 57m,Action,117.0,Standard,< 2 hrs
+Canary Black,5.4,12000.0,1h 41m,Action,101.0,Standard,< 2 hrs
+Solo Leveling: ReAwakening,8.8,14000.0,2h 1m,Action,121.0,120-150 min,2–3 hrs
+Brothers,5.4,14000.0,1h 29m,Action,89.0,Short,< 2 hrs
+Marco,6.7,23000.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+The Fix,4.7,1600.0,1h 38m,Action,98.0,Standard,< 2 hrs
+Jackpot!,5.8,31000.0,1h 46m,Action,106.0,Standard,< 2 hrs
+Trigger Warning,4.6,20000.0,1h 46m,Action,106.0,Standard,< 2 hrs
+Kalki 2898 AD,7.0,68000.0,,Action,,150+ min,3–4 hrs
+The Silent Hour,6.1,8400.0,1h 39m,Action,99.0,Standard,< 2 hrs
+Night Call,6.7,2500.0,1h 37m,Action,97.0,Standard,< 2 hrs
+Rebel Moon - Part Two: The Scargiver,5.3,60000.0,2h 2m,Action,122.0,120-150 min,2–3 hrs
+The Shadow Strays,6.5,9700.0,2h 24m,Action,144.0,120-150 min,2–3 hrs
+11 Rebels,6.3,723.0,2h 35m,Action,155.0,150+ min,2–3 hrs
+Karma,7.9,1500.0,2h 47m,Action,167.0,150+ min,2–3 hrs
+Boneyard,4.1,5200.0,1h 36m,Action,96.0,Standard,< 2 hrs
+Uprising,6.6,6000.0,2h 6m,Action,126.0,120-150 min,2–3 hrs
+Elyas,6.1,1600.0,1h 45m,Action,105.0,Standard,< 2 hrs
+Fighter,6.2,53000.0,2h 46m,Action,166.0,150+ min,2–3 hrs
+Aavesham,7.8,29000.0,2h 35m,Action,155.0,150+ min,2–3 hrs
+Devara Part 1,6.0,21000.0,2h 56m,Action,176.0,150+ min,2–3 hrs
+Amaran,8.1,20000.0,2h 47m,Action,167.0,150+ min,2–3 hrs
+Weekend in Taipei,5.7,5400.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Twilight of the Warriors: Walled In,6.9,10000.0,2h 6m,Action,126.0,120-150 min,2–3 hrs
+Descendants: The Rise of Red,4.7,7300.0,1h 31m,Action,91.0,Standard,< 2 hrs
+Aftermath,5.1,4400.0,1h 37m,Action,97.0,Standard,< 2 hrs
+Red Right Hand,5.5,6100.0,1h 51m,Action,111.0,Standard,< 2 hrs
+Baby John,5.1,17000.0,2h 39m,Action,159.0,150+ min,2–3 hrs
+Ultraman: Rising,6.9,6700.0,1h 57m,Action,117.0,Standard,< 2 hrs
+Watchmen: Chapter I,7.1,7000.0,1h 23m,Action,83.0,Short,< 2 hrs
+Escape from the 21st Century,6.4,1000.0,1h 38m,Action,98.0,Standard,< 2 hrs
+I Am What I Am 2,7.5,385.0,2h 14m,Action,134.0,120-150 min,2–3 hrs
+My Spy: The Eternal City,5.7,11000.0,1h 52m,Action,112.0,Standard,< 2 hrs
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8800.0,1h 44m,Action,104.0,Standard,< 2 hrs
+Saripodhaa Sanivaaram,7.0,10000.0,2h 46m,Action,166.0,150+ min,2–3 hrs
+The Quiet Ones,6.1,1100.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Justice League: Crisis on Infinite Earths - Part One,6.2,8800.0,1h 33m,Action,93.0,Standard,< 2 hrs
+Cash Out,4.8,3200.0,1h 32m,Action,92.0,Standard,< 2 hrs
+Justice League: Crisis on Infinite Earths - Part Three,6.0,4800.0,1h 34m,Action,94.0,Standard,< 2 hrs
+The Family Star,5.4,5600.0,2h 39m,Action,159.0,150+ min,2–3 hrs
+Stand Your Ground,4.7,245.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Damaged,4.7,7600.0,1h 37m,Action,97.0,Standard,< 2 hrs
+Singham Again,4.6,75000.0,2h 24m,Action,144.0,120-150 min,2–3 hrs
+Chief of Station,4.7,4800.0,1h 37m,Action,97.0,Standard,< 2 hrs
+Utopia,3.7,435.0,1h 31m,Action,91.0,Standard,< 2 hrs
+Paradox Effect,5.9,9600.0,1h 27m,Action,87.0,Short,< 2 hrs
+Badland Hunters,5.9,13000.0,1h 47m,Action,107.0,Standard,< 2 hrs
+Code 8: Part II,5.7,16000.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Armor,3.6,4600.0,1h 29m,Action,89.0,Short,< 2 hrs
+Officer Black Belt,6.9,8800.0,1h 48m,Action,108.0,Standard,< 2 hrs
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5600.0,1h 34m,Action,94.0,Standard,< 2 hrs
+Chandu Champion,7.8,35000.0,2h 22m,Action,142.0,120-150 min,2–3 hrs
+Revolver,5.4,926.0,1h 54m,Action,114.0,Standard,< 2 hrs
+Duchess,4.6,1600.0,1h 54m,Action,114.0,Standard,< 2 hrs
+My Hero Academia: You're Next,6.9,2600.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Watchmen: Chapter II,7.1,3500.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Agni,7.2,15000.0,2h 2m,Action,122.0,120-150 min,2–3 hrs
+Striking Rescue,5.6,699.0,1h 51m,Action,111.0,Standard,< 2 hrs
+Thangalaan,6.5,6800.0,2h 36m,Action,156.0,150+ min,2–3 hrs
+The Thundermans Return,5.0,1900.0,1h 10m,Action,70.0,Short,< 2 hrs
+Alien: Rubicon,2.5,464.0,1h 26m,Action,86.0,Short,< 2 hrs
+Cells at Work!,6.7,918.0,1h 49m,Action,109.0,Standard,< 2 hrs
+A.R.M,7.1,9000.0,2h 30m,Action,150.0,120-150 min,2–3 hrs
+Matka,4.7,608.0,2h 36m,Action,156.0,150+ min,2–3 hrs
+The Twisters,2.6,429.0,1h 26m,Action,86.0,Short,< 2 hrs
+Long Gone Heroes,5.1,1300.0,1h 41m,Action,101.0,Standard,< 2 hrs
+Dominique,5.3,2400.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Prey,3.7,3500.0,1h 26m,Action,86.0,Short,< 2 hrs
+Sasan,8.8,90.0,2h 35m,Action,155.0,150+ min,2–3 hrs
+Agent Recon,2.4,756.0,1h 25m,Action,85.0,Short,< 2 hrs
+Life After Fighting,6.4,2200.0,2h 6m,Action,126.0,120-150 min,2–3 hrs
+No Way Up,4.6,11000.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Trouble,6.2,7200.0,1h 38m,Action,98.0,Standard,< 2 hrs
+Vedaa,6.0,4500.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+The Courier,6.0,4600.0,1h 41m,Action,101.0,Standard,< 2 hrs
+Toofan,7.3,8700.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+One Fast Move,5.0,2300.0,1h 48m,Action,108.0,Standard,< 2 hrs
+Everybody Loves Jenifa,8.3,98.0,2h 15m,Action,135.0,120-150 min,2–3 hrs
+Baby Assassins: Nice Days,7.2,356.0,1h 43m,Action,103.0,Standard,< 2 hrs
+Bougainvillea,6.4,3400.0,2h 18m,Action,138.0,120-150 min,2–3 hrs
+Classified,3.7,2800.0,1h 45m,Action,105.0,Standard,< 2 hrs
+The Roundup: Punishment,6.6,5700.0,1h 49m,Action,109.0,Standard,< 2 hrs
+Bagheera,6.7,7600.0,2h 38m,Action,158.0,150+ min,2–3 hrs
+Hitpig,5.1,1100.0,1h 26m,Action,86.0,Short,< 2 hrs
+The Last Front,5.5,640.0,1h 38m,Action,98.0,Standard,< 2 hrs
+The Greatest of All Time,5.7,23000.0,3h 3m,Action,183.0,150+ min,3–4 hrs
+Guntur Kaaram,5.4,25000.0,2h 39m,Action,159.0,150+ min,2–3 hrs
+One More Shot,5.4,3800.0,1h 43m,Action,103.0,Standard,< 2 hrs
+Hagen,6.1,1400.0,2h 19m,Action,139.0,120-150 min,2–3 hrs
+Big City Greens the Movie: Spacecation,6.2,587.0,1h 23m,Action,83.0,Short,< 2 hrs
+Pani,6.9,3400.0,2h 23m,Action,143.0,120-150 min,2–3 hrs
+Kill Em All 2,4.1,1400.0,1h 28m,Action,88.0,Short,< 2 hrs
+Raayan,6.5,11000.0,2h 25m,Action,145.0,120-150 min,2–3 hrs
+Harbin,6.2,985.0,1h 48m,Action,108.0,Standard,< 2 hrs
+Sikandar Ka Muqaddar,5.9,25000.0,2h 22m,Action,142.0,120-150 min,2–3 hrs
+Kanguva,4.5,15000.0,2h 32m,Action,152.0,150+ min,2–3 hrs
+Invasion,4.8,755.0,1h 31m,Action,91.0,Standard,< 2 hrs
+The Price of Money: A Largo Winch Adventure,5.1,1300.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Martin,2.2,36000.0,2h 27m,Action,147.0,120-150 min,2–3 hrs
+Despatch,4.4,4500.0,2h 33m,Action,153.0,150+ min,2–3 hrs
+Uch Qahramon,7.3,105.0,,Action,,150+ min,3–4 hrs
+Escape,6.4,2200.0,1h 34m,Action,94.0,Standard,< 2 hrs
+Levels,5.0,1600.0,1h 33m,Action,93.0,Standard,< 2 hrs
+The Clean Up Crew,4.2,1300.0,1h 35m,Action,95.0,Standard,< 2 hrs
+Khadaan,7.0,2200.0,2h 17m,Action,137.0,120-150 min,2–3 hrs
+Shark Warning,3.5,376.0,1h 34m,Action,94.0,Standard,< 2 hrs
+Viduthalai Part 2,7.8,17000.0,2h 50m,Action,170.0,150+ min,2–3 hrs
+Por,5.1,627.0,2h 34m,Action,154.0,150+ min,2–3 hrs
+Rifle Club,7.0,4600.0,1h 53m,Action,113.0,Standard,< 2 hrs
+Gandhi 3,5.7,247.0,2h 23m,Action,143.0,120-150 min,2–3 hrs
+Shoutai,6.8,709.0,,Action,,150+ min,3–4 hrs
+Devil's Knight,5.3,966.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Hounds of War,4.5,2000.0,1h 35m,Action,95.0,Standard,< 2 hrs
+Overlord: The Sacred Kingdom,6.9,1500.0,2h 15m,Action,135.0,120-150 min,2–3 hrs
+Mafia Wars,3.6,289.0,1h 38m,Action,98.0,Standard,< 2 hrs
+Article 370,7.8,25000.0,2h 38m,Action,158.0,150+ min,2–3 hrs
+Bachhala Malli,8.2,4000.0,2h 20m,Action,140.0,120-150 min,2–3 hrs
+In the Fire of War,7.1,209.0,1h 55m,Action,115.0,Standard,< 2 hrs
+Je Jatt Vigarh Gya,5.6,836.0,2h 12m,Action,132.0,120-150 min,2–3 hrs
+DNA,5.1,218.0,2h 36m,Action,156.0,150+ min,2–3 hrs
+Bidurbhai,9.1,413.0,2h 28m,Action,148.0,120-150 min,2–3 hrs
+Rats!,6.5,207.0,1h 25m,Action,85.0,Short,< 2 hrs
+Megamind vs. The Doom Syndicate,2.5,5700.0,1h 23m,Action,83.0,Short,< 2 hrs
+Darkness of Man,4.7,3300.0,1h 49m,Action,109.0,Standard,< 2 hrs
+Lights Out,4.9,1900.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Eye for an Eye 2,6.6,554.0,1h 30m,Action,90.0,Standard,< 2 hrs
+Fighting the Fire,8.2,1700.0,1h 55m,Action,115.0,Standard,< 2 hrs
+Air Force One Down,4.4,3000.0,1h 24m,Action,84.0,Short,< 2 hrs
+Uninvited,5.6,341.0,1h 33m,Action,93.0,Standard,< 2 hrs
+Peter Five Eight,3.5,1100.0,1h 40m,Action,100.0,Standard,< 2 hrs
+Sons of Rizk 3,6.6,1800.0,2h 5m,Action,125.0,120-150 min,2–3 hrs
+Bade Miyan Chote Miyan,3.8,39000.0,2h 43m,Action,163.0,150+ min,2–3 hrs
+City Hunter,6.3,5800.0,1h 42m,Action,102.0,Standard,< 2 hrs
+Yodha,5.7,9000.0,2h 10m,Action,130.0,120-150 min,2–3 hrs
+Where Is Gilgamesh?,8.9,640.0,1h 30m,Action,90.0,Standard,< 2 hrs
+The Waiter,8.2,30.0,,Action,,150+ min,3–4 hrs
+The Tiger's Apprentice,5.8,2300.0,1h 24m,Action,84.0,Short,< 2 hrs
+Murder Company,3.6,1600.0,1h 26m,Action,86.0,Short,< 2 hrs
+The Wages of Fear,4.6,4200.0,1h 44m,Action,104.0,Standard,< 2 hrs
+S.T.A.L.K.E.R.: Shadow of the Zone,4.8,643.0,1h 11m,Action,71.0,Short,< 2 hrs
+Golden Kamuy,6.3,2700.0,2h 7m,Action,127.0,120-150 min,2–3 hrs
+Kallu Compound 1995,7.9,2000.0,2h 20m,Action,140.0,120-150 min,2–3 hrs
+How to Rob a Bank,6.6,4300.0,1h 28m,Action,88.0,Short,< 2 hrs
+Yudhra,4.9,13000.0,2h 22m,Action,142.0,120-150 min,2–3 hrs
+Continental Split,3.5,571.0,1h 28m,Action,88.0,Short,< 2 hrs
+The Ballad of Davy Crockett,4.6,265.0,1h 36m,Action,96.0,Standard,< 2 hrs
+The Last Kumite,4.6,2400.0,1h 45m,Action,105.0,Standard,< 2 hrs
+Sunray: Fallen Soldier,4.3,706.0,1h 55m,Action,115.0,Standard,< 2 hrs
+Hanu Man,7.7,29000.0,2h 38m,Action,158.0,150+ min,2–3 hrs
+A Legend,4.7,1000.0,2h 9m,Action,129.0,120-150 min,2–3 hrs
+War of the Worlds: Extinction,3.0,218.0,1h 24m,Action,84.0,Short,< 2 hrs
+Mobile Suit Gundam SEED Freedom,6.6,984.0,2h 4m,Action,124.0,120-150 min,2–3 hrs
+Snow White and the Seven Samurai,3.2,315.0,1h 28m,Action,88.0,Short,< 2 hrs
+Panda Plan,5.1,1500.0,1h 39m,Action,99.0,Standard,< 2 hrs
+24 Hours to D-Day,3.5,85.0,1h 23m,Action,83.0,Short,< 2 hrs
+Troubleshooters,6.4,436.0,1h 50m,Action,110.0,Standard,< 2 hrs
+Jigra,6.0,24000.0,2h 33m,Action,153.0,150+ min,2–3 hrs
+Kizumonogatari: Koyomi Vamp,7.0,111.0,2h 24m,Action,144.0,120-150 min,2–3 hrs
+Black Heat,8.2,137.0,1h 33m,Action,93.0,Standard,< 2 hrs
+Crisis Negotiators,6.7,751.0,,Action,,150+ min,3–4 hrs
+Sikaar,8.3,688.0,2h 30m,Action,150.0,120-150 min,2–3 hrs
+Hunt the Wicked,5.4,179.0,1h 42m,Action,102.0,Standard,< 2 hrs
+Die Hart 2: Die Harter,4.3,5600.0,1h 32m,Action,92.0,Standard,< 2 hrs
+Shekko,5.9,616.0,,Action,,150+ min,3–4 hrs
+Vettaiyan,6.9,40000.0,2h 43m,Action,163.0,150+ min,2–3 hrs
+Vanvaas,6.6,1500.0,2h 40m,Action,160.0,150+ min,2–3 hrs
+"I, the Executioner",6.3,2000.0,1h 58m,Action,118.0,Standard,< 2 hrs
+Anora,7.5,206000.0,2h 19m,Comedy,139.0,120-150 min,2–3 hrs
+Friendship,7.0,13000.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+F*** Marry Kill,5.3,3100.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+A Real Pain,7.1,106000.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Moana 2,6.5,110000.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+The Day the Earth Blew Up: A Looney Tunes Movie,6.9,6000.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Sister Midnight,5.9,1100.0,1h 47m,Comedy,107.0,Standard,< 2 hrs
+The Idea of You,6.3,75000.0,1h 55m,Comedy,115.0,Standard,< 2 hrs
+Challengers,7.0,159000.0,2h 11m,Comedy,131.0,120-150 min,2–3 hrs
+Inside Out 2,7.5,223000.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Ghostbusters: Frozen Empire,6.1,96000.0,1h 55m,Comedy,115.0,Standard,< 2 hrs
+Saturday Night,6.9,33000.0,1h 49m,Comedy,109.0,Standard,< 2 hrs
+My Old Ass,6.9,42000.0,1h 29m,Comedy,89.0,Short,< 2 hrs
+Paddington in Peru,6.7,26000.0,1h 46m,Comedy,106.0,Standard,< 2 hrs
+Despicable Me 4,6.2,69000.0,1h 34m,Comedy,94.0,Standard,< 2 hrs
+Distant,5.7,3800.0,1h 27m,Comedy,87.0,Short,< 2 hrs
+A Different Man,6.9,32000.0,1h 52m,Comedy,112.0,Standard,< 2 hrs
+IF,6.4,60000.0,1h 44m,Comedy,104.0,Standard,< 2 hrs
+Kneecap,7.6,20000.0,1h 45m,Comedy,105.0,Standard,< 2 hrs
+Fly Me to the Moon,6.6,52000.0,2h 12m,Comedy,132.0,120-150 min,2–3 hrs
+Mean Girls,5.5,38000.0,1h 52m,Comedy,112.0,Standard,< 2 hrs
+The Friend,6.3,3200.0,1h 59m,Comedy,119.0,Standard,< 2 hrs
+Snack Shack,7.0,13000.0,1h 52m,Comedy,112.0,Standard,< 2 hrs
+It's What's Inside,6.6,44000.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Goodrich,6.3,6200.0,1h 50m,Comedy,110.0,Standard,< 2 hrs
+A Nice Indian Boy,7.4,2300.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+A Family Affair,5.4,37000.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+The Wonderful Story of Henry Sugar and Three More,7.1,8300.0,1h 28m,Comedy,88.0,Short,< 2 hrs
+Wallace & Gromit: Vengeance Most Fowl,7.5,36000.0,1h 22m,Comedy,82.0,Short,< 2 hrs
+Skincare,5.7,4900.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Ricky Stanicky,6.2,57000.0,1h 53m,Comedy,113.0,Standard,< 2 hrs
+How to Make Millions Before Grandma Dies,7.9,17000.0,2h 5m,Comedy,125.0,120-150 min,2–3 hrs
+Incoming,5.8,14000.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Greedy People,6.2,13000.0,1h 52m,Comedy,112.0,Standard,< 2 hrs
+Riff Raff,5.6,4000.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Upgraded,6.1,30000.0,1h 44m,Comedy,104.0,Standard,< 2 hrs
+Jane Austen Wrecked My Life,6.5,830.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+Miller's Girl,5.2,24000.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+Sketch,8.3,76.0,1h 32m,Comedy,92.0,Standard,< 2 hrs
+Spermageddon,5.6,1100.0,1h 20m,Comedy,80.0,Short,< 2 hrs
+Four Mothers,7.1,471.0,1h 29m,Comedy,89.0,Short,< 2 hrs
+Holy Cow,7.1,2600.0,1h 32m,Comedy,92.0,Standard,< 2 hrs
+Hard Truths,7.2,6500.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+Vulgar,5.4,195.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Superboys of Malegaon,7.7,5800.0,2h 7m,Comedy,127.0,120-150 min,2–3 hrs
+My Dead Friend Zoe,6.5,2800.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Bad Shabbos,7.1,297.0,1h 24m,Comedy,84.0,Short,< 2 hrs
+Bob Trevino Likes It,7.5,2300.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+The Garfield Movie,5.7,25000.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+Dìdi,7.3,14000.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+Luv Ki Arrange Marriage,4.1,4900.0,2h 15m,Comedy,135.0,120-150 min,2–3 hrs
+Stealing Pulp Fiction,6.1,36.0,1h 18m,Comedy,78.0,Short,< 2 hrs
+Tim Travers & the Time Travelers Paradox,6.8,337.0,1h 35m,Comedy,95.0,Standard,< 2 hrs
+The Uninvited,5.3,739.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+Sacramento,5.9,1700.0,1h 29m,Comedy,89.0,Short,< 2 hrs
+Sew Torn,6.0,762.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+Ghostlight,7.6,6400.0,1h 55m,Comedy,115.0,Standard,< 2 hrs
+The Marching Band,7.4,4000.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Piece by Piece,6.9,6200.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+Sweethearts,5.6,4200.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+Unfrosted,5.5,35000.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+Spellbound,5.5,8000.0,1h 49m,Comedy,109.0,Standard,< 2 hrs
+Mother of the Bride,4.8,17000.0,1h 28m,Comedy,88.0,Short,< 2 hrs
+Universal Language,6.9,1900.0,1h 29m,Comedy,89.0,Short,< 2 hrs
+Turn Me On,5.6,726.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+On Becoming a Guinea Fowl,7.0,1200.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Teri Baaton Mein Aisa Uljha Jiya,6.2,54000.0,2h 21m,Comedy,141.0,120-150 min,2–3 hrs
+Harold and the Purple Crayon,5.7,8900.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Simarik,5.4,3900.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+Find Me Falling,6.3,13000.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+Let's Start a Cult,5.9,1600.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Our Little Secret,5.7,24000.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+Feeling Randy,7.2,511.0,1h 21m,Comedy,81.0,Short,< 2 hrs
+Misericordia,6.8,2600.0,1h 44m,Comedy,104.0,Standard,< 2 hrs
+Premalu,7.8,20000.0,2h 36m,Comedy,156.0,150+ min,2–3 hrs
+My Favourite Cake,7.4,7800.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+Irish Wish,5.2,22000.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+Sookshma Darshini,7.8,11000.0,2h 22m,Comedy,142.0,120-150 min,2–3 hrs
+Sasquatch Sunset,5.4,5600.0,1h 28m,Comedy,88.0,Short,< 2 hrs
+Winner,6.5,2700.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Psycho Therapy: The Shallow Tale of a Writer Who Decided to Write about a Serial Killer,6.2,1500.0,1h 42m,Comedy,102.0,Standard,< 2 hrs
+Orion and the Dark,6.3,18000.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+And the Breadwinner Is...,6.0,463.0,2h 3m,Comedy,123.0,120-150 min,2–3 hrs
+Adult Best Friends,5.3,515.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Kalvan,5.6,998.0,2h 22m,Comedy,142.0,120-150 min,2–3 hrs
+Family Pack,5.5,9700.0,1h 34m,Comedy,94.0,Standard,< 2 hrs
+Miracle Mirrors,5.4,269.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Eephus,6.8,1000.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Dear Santa,5.4,19000.0,1h 47m,Comedy,107.0,Standard,< 2 hrs
+Pabar,8.1,270.0,2h 39m,Comedy,159.0,150+ min,2–3 hrs
+Lake George,6.5,1600.0,1h 58m,Comedy,118.0,Standard,< 2 hrs
+Meet the Barbarians,6.3,658.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+Lepattanó,5.2,132.0,2h 20m,Comedy,140.0,120-150 min,2–3 hrs
+Babes,6.3,6600.0,1h 44m,Comedy,104.0,Standard,< 2 hrs
+Through My Window: Looking at You,5.5,5500.0,1h 45m,Comedy,105.0,Standard,< 2 hrs
+The Visitor,4.1,380.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+The 4:30 Movie,6.0,4000.0,1h 27m,Comedy,87.0,Short,< 2 hrs
+Doraemon the Movie: Nobita's Earth Symphony,6.6,1600.0,1h 55m,Comedy,115.0,Standard,< 2 hrs
+Crayon Shin-chan: Our Dinosaur Diary,6.6,614.0,1h 46m,Comedy,106.0,Standard,< 2 hrs
+The Astronaut Lovers,7.1,955.0,1h 56m,Comedy,116.0,Standard,< 2 hrs
+Peacock,7.2,594.0,1h 42m,Comedy,102.0,Standard,< 2 hrs
+Manamey,5.3,772.0,2h 35m,Comedy,155.0,150+ min,2–3 hrs
+Sthanarthi Sreekuttan,7.2,1600.0,2h 15m,Comedy,135.0,120-150 min,2–3 hrs
+Opa Cor,5.8,326.0,1h 26m,Comedy,86.0,Short,< 2 hrs
+Bookworm,6.0,2100.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Three Friends,6.6,850.0,1h 57m,Comedy,117.0,Standard,< 2 hrs
+The Merry Gentlemen,4.8,10000.0,1h 27m,Comedy,87.0,Short,< 2 hrs
+Diamanti,6.7,1600.0,2h 15m,Comedy,135.0,120-150 min,2–3 hrs
+A House on Fire,7.2,3500.0,1h 45m,Comedy,105.0,Standard,< 2 hrs
+Summer Camp,4.5,1700.0,1h 35m,Comedy,95.0,Standard,< 2 hrs
+White Snake: Afloat,6.9,577.0,2h 13m,Comedy,133.0,120-150 min,2–3 hrs
+The Pee Pee Poo Poo Man,8.2,31.0,1h 19m,Comedy,79.0,Short,< 2 hrs
+Takintilar,5.1,2900.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Notice to Quit,5.7,599.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Vaazha: Biopic of a Billion Boys,7.3,4400.0,2h 5m,Comedy,125.0,120-150 min,2–3 hrs
+Young Werther,5.6,286.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+Jim's Story,6.8,1100.0,1h 41m,Comedy,101.0,Standard,< 2 hrs
+Standing on the Shoulders of Kitties,6.2,666.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+The Problem with People,5.7,537.0,1h 42m,Comedy,102.0,Standard,< 2 hrs
+The Trainer,7.2,65.0,1h 35m,Comedy,95.0,Standard,< 2 hrs
+Khel Khel Mein,6.5,28000.0,2h 15m,Comedy,135.0,120-150 min,2–3 hrs
+Crew,5.8,38000.0,1h 58m,Comedy,118.0,Standard,< 2 hrs
+Drugstore June,5.4,1800.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Chantal in Fairyland,4.6,2700.0,1h 58m,Comedy,118.0,Standard,< 2 hrs
+Love in the Big City,7.4,1700.0,1h 58m,Comedy,118.0,Standard,< 2 hrs
+Beautiful Wedding,4.1,4400.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+Marmalade,6.3,3800.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Vicky Vidya Ka Woh Wala Video,5.2,12000.0,2h 32m,Comedy,152.0,150+ min,2–3 hrs
+Reunion,5.6,3700.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Mukadderat,7.0,1400.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Between the Temples,6.2,3100.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+U Are the Universe,7.7,386.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Mars,8.1,26.0,1h 24m,Comedy,84.0,Short,< 2 hrs
+Sunlight,7.7,33.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Super Happy Forever,6.9,232.0,1h 34m,Comedy,94.0,Standard,< 2 hrs
+Thelma the Unicorn,5.7,3100.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+The Other Way Around,6.4,1700.0,1h 54m,Comedy,114.0,Standard,< 2 hrs
+Arthur's Whisky,4.7,994.0,1h 34m,Comedy,94.0,Standard,< 2 hrs
+Modi: Three Days on the Wing of Madness,5.4,602.0,1h 48m,Comedy,108.0,Standard,< 2 hrs
+Nuked,7.2,53.0,1h 26m,Comedy,86.0,Short,< 2 hrs
+Ajosepo,8.9,69.0,2h 14m,Comedy,134.0,120-150 min,2–3 hrs
+Hot Frosty,5.3,15000.0,1h 32m,Comedy,92.0,Standard,< 2 hrs
+The Second Act,6.4,3800.0,1h 20m,Comedy,80.0,Short,< 2 hrs
+Madgaon Express,7.0,41000.0,2h 23m,Comedy,143.0,120-150 min,2–3 hrs
+A Little Something Extra,7.0,5200.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Space Cadet,5.0,10000.0,1h 50m,Comedy,110.0,Standard,< 2 hrs
+Treasure,6.3,2200.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+That Christmas,6.8,17000.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Corina,7.0,706.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Mittran Da Challeya Truck Ni,7.7,1100.0,2h 11m,Comedy,131.0,120-150 min,2–3 hrs
+This Is Me... Now,4.1,7200.0,1h 5m,Comedy,65.0,Short,< 2 hrs
+Buffalo Kids,6.6,775.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+How to Date Billy Walsh,5.2,4000.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+The Code,5.9,234.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+The Fabulous Four,4.8,1700.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+Perfect Endings,5.5,228.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+The Supremes at Earl's All-You-Can-Eat,6.5,1500.0,2h 4m,Comedy,124.0,120-150 min,2–3 hrs
+Saving Bikini Bottom: The Sandy Cheeks Movie,3.7,4000.0,1h 22m,Comedy,82.0,Short,< 2 hrs
+And Mrs,5.8,835.0,1h 51m,Comedy,111.0,Standard,< 2 hrs
+Lucky Winners,6.3,1500.0,1h 43m,Comedy,103.0,Standard,< 2 hrs
+Swede Caroline,5.2,289.0,1h 38m,Comedy,98.0,Standard,< 2 hrs
+The Underdoggs,5.6,4600.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+The Real Bros of Simi Valley: The Movie,7.0,1100.0,1h 46m,Comedy,106.0,Standard,< 2 hrs
+Chapter 51,,,,Comedy,,150+ min,3–4 hrs
+Boot Camp,5.8,1200.0,1h 34m,Comedy,94.0,Standard,< 2 hrs
+The Best Christmas Pageant Ever,6.8,6300.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Rent Free,7.8,77.0,1h 33m,Comedy,93.0,Standard,< 2 hrs
+The Fisherman,7.4,56.0,1h 46m,Comedy,106.0,Standard,< 2 hrs
+La casa,6.9,992.0,1h 23m,Comedy,83.0,Short,< 2 hrs
+Running on Empty,4.9,592.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Don't Tell Mom the Babysitter's Dead,3.8,1300.0,1h 39m,Comedy,99.0,Standard,< 2 hrs
+Stress Positions,5.0,665.0,1h 35m,Comedy,95.0,Standard,< 2 hrs
+Cheers to Life,5.3,263.0,1h 44m,Comedy,104.0,Standard,< 2 hrs
+Bairi,7.0,510.0,2h 20m,Comedy,140.0,120-150 min,2–3 hrs
+How Could I Live Without You?,6.9,1100.0,1h 45m,Comedy,105.0,Standard,< 2 hrs
+Breakfast with Giraffes,5.9,1100.0,1h 37m,Comedy,97.0,Standard,< 2 hrs
+Woody Woodpecker Goes to Camp,4.5,2700.0,1h 40m,Comedy,100.0,Standard,< 2 hrs
+AJ Goes to the Dog Park,7.2,13.0,1h 19m,Comedy,79.0,Short,< 2 hrs
+Timestalker,5.5,3100.0,1h 29m,Comedy,89.0,Short,< 2 hrs
+Chuck Billy and the Marvelous Guava Tree,7.4,1200.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+O Melhor Amigo,6.4,140.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Two to One,6.1,846.0,1h 56m,Comedy,116.0,Standard,< 2 hrs
+Wallbanger,5.6,732.0,1h 58m,Comedy,118.0,Standard,< 2 hrs
+A Hip Hop Story,8.6,114.0,1h 30m,Comedy,90.0,Standard,< 2 hrs
+Agak Laen,7.6,3100.0,1h 59m,Comedy,119.0,Standard,< 2 hrs
+Love at 39 Degrees,5.5,1500.0,1h 55m,Comedy,115.0,Standard,< 2 hrs
+Do Aur Do Pyaar,6.4,12000.0,2h 20m,Comedy,140.0,120-150 min,2–3 hrs
+The Black Sea,7.9,112.0,1h 36m,Comedy,96.0,Standard,< 2 hrs
+Naale Rajaa Koli Majaa,8.2,2100.0,1h 31m,Comedy,91.0,Standard,< 2 hrs
+Alakada: Bad and Boujee,8.7,22.0,,Comedy,,150+ min,3–4 hrs
+Bau: Artist at War,7.2,64.0,2h 10m,Comedy,130.0,120-150 min,2–3 hrs
+The Life of Chuck,7.7,7400.0,1h 51m,Drama,111.0,Standard,< 2 hrs
+The Brutalist,7.3,94000.0,3h 36m,Drama,216.0,150+ min,3–4 hrs
+A Complete Unknown,7.3,93000.0,2h 21m,Drama,141.0,120-150 min,2–3 hrs
+Conclave,7.4,205000.0,,Drama,,150+ min,3–4 hrs
+Babygirl,5.8,64000.0,1h 54m,Drama,114.0,Standard,< 2 hrs
+The Order,6.8,50000.0,1h 56m,Drama,116.0,Standard,< 2 hrs
+I'm Still Here,8.2,114000.0,2h 17m,Drama,137.0,120-150 min,2–3 hrs
+Mufasa: The Lion King,6.6,71000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Parthenope,6.6,15000.0,2h 17m,Drama,137.0,120-150 min,2–3 hrs
+Juror #2,7.0,105000.0,1h 54m,Drama,114.0,Standard,< 2 hrs
+The Assessment,6.6,12000.0,1h 54m,Drama,114.0,Standard,< 2 hrs
+Joker: Folie à Deux,5.2,166000.0,2h 18m,Drama,138.0,120-150 min,2–3 hrs
+We Live in Time,7.0,57000.0,1h 48m,Drama,108.0,Standard,< 2 hrs
+Small Things Like These,6.7,27000.0,1h 38m,Drama,98.0,Standard,< 2 hrs
+The Apprentice,7.1,60000.0,2h 2m,Drama,122.0,120-150 min,2–3 hrs
+Horizon: An American Saga - Chapter 1,6.6,41000.0,3h 1m,Drama,181.0,150+ min,3–4 hrs
+It Ends with Us,6.3,89000.0,2h 10m,Drama,130.0,120-150 min,2–3 hrs
+Caddo Lake,6.8,46000.0,1h 43m,Drama,103.0,Standard,< 2 hrs
+The Last Showgirl,6.5,15000.0,1h 28m,Drama,88.0,Short,< 2 hrs
+The Return,6.2,10000.0,1h 56m,Drama,116.0,Standard,< 2 hrs
+Here,6.3,23000.0,1h 44m,Drama,104.0,Standard,< 2 hrs
+September 5,7.1,27000.0,1h 35m,Drama,95.0,Standard,< 2 hrs
+On Swift Horses,6.0,2500.0,1h 59m,Drama,119.0,Standard,< 2 hrs
+The Salt Path,7.0,2200.0,1h 55m,Drama,115.0,Standard,< 2 hrs
+Queer,6.4,24000.0,2h 17m,Drama,137.0,120-150 min,2–3 hrs
+Megalopolis,4.7,37000.0,2h 18m,Drama,138.0,120-150 min,2–3 hrs
+The Thicket,5.8,3600.0,1h 48m,Drama,108.0,Standard,< 2 hrs
+Rust,5.4,2700.0,2h 19m,Drama,139.0,120-150 min,2–3 hrs
+Ponyboi,5.7,368.0,1h 43m,Drama,103.0,Standard,< 2 hrs
+The Girl with the Needle,7.5,15000.0,2h 3m,Drama,123.0,120-150 min,2–3 hrs
+The Six Triple Eight,6.7,28000.0,2h 7m,Drama,127.0,120-150 min,2–3 hrs
+Love Lies Bleeding,6.6,59000.0,1h 44m,Drama,104.0,Standard,< 2 hrs
+I Saw the TV Glow,5.8,38000.0,1h 40m,Drama,100.0,Standard,< 2 hrs
+The Seed of the Sacred Fig,7.6,16000.0,2h 47m,Drama,167.0,150+ min,2–3 hrs
+Horizon: An American Saga - Chapter 2,7.1,1400.0,3h 10m,Drama,190.0,150+ min,3–4 hrs
+The Penguin Lessons,7.1,4400.0,1h 51m,Drama,111.0,Standard,< 2 hrs
+Nickel Boys,6.9,21000.0,2h 20m,Drama,140.0,120-150 min,2–3 hrs
+The Room Next Door,6.8,23000.0,1h 47m,Drama,107.0,Standard,< 2 hrs
+Lucky Baskhar,8.0,35000.0,2h 28m,Drama,148.0,120-150 min,2–3 hrs
+The Outrun,6.9,17000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Arthur the King,7.0,35000.0,1h 47m,Drama,107.0,Standard,< 2 hrs
+Emilia Pérez,5.4,91000.0,2h 12m,Drama,132.0,120-150 min,2–3 hrs
+Young Hearts,7.9,5700.0,1h 39m,Drama,99.0,Standard,< 2 hrs
+Maria,6.4,21000.0,2h 4m,Drama,124.0,120-150 min,2–3 hrs
+Mothers' Instinct,6.3,21000.0,1h 34m,Drama,94.0,Standard,< 2 hrs
+Ask Me What You Want,3.9,1300.0,1h 54m,Drama,114.0,Standard,< 2 hrs
+All We Imagine as Light,7.1,11000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Love Me,5.1,3000.0,1h 31m,Drama,91.0,Standard,< 2 hrs
+Memoir of a Snail,7.8,19000.0,1h 35m,Drama,95.0,Standard,< 2 hrs
+Spaceman,5.7,44000.0,1h 47m,Drama,107.0,Standard,< 2 hrs
+Bonjour Tristesse,6.0,455.0,1h 50m,Drama,110.0,Standard,< 2 hrs
+Suncoast,6.7,7500.0,1h 49m,Drama,109.0,Standard,< 2 hrs
+Queen of the Ring,6.3,2200.0,2h 9m,Drama,129.0,120-150 min,2–3 hrs
+Nr. 24,7.5,16000.0,1h 51m,Drama,111.0,Standard,< 2 hrs
+Daniela Forever,5.9,307.0,1h 53m,Drama,113.0,Standard,< 2 hrs
+Inside,6.8,344.0,1h 44m,Drama,104.0,Standard,< 2 hrs
+Bird,7.0,9600.0,1h 59m,Drama,119.0,Standard,< 2 hrs
+Mon Potongo,5.3,572.0,2h 29m,Drama,149.0,120-150 min,2–3 hrs
+Mr. K,5.5,1100.0,1h 34m,Drama,94.0,Standard,< 2 hrs
+Winter Spring Summer or Fall,6.0,3000.0,1h 37m,Drama,97.0,Standard,< 2 hrs
+Culpa Tuya,5.2,14000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Souleymane's Story,7.6,4000.0,1h 33m,Drama,93.0,Standard,< 2 hrs
+Young Woman and the Sea,7.5,18000.0,2h 9m,Drama,129.0,120-150 min,2–3 hrs
+Turtles All the Way Down,6.6,7500.0,1h 51m,Drama,111.0,Standard,< 2 hrs
+The Children's Train,7.4,7900.0,1h 46m,Drama,106.0,Standard,< 2 hrs
+Meiyazhagan,8.4,15000.0,2h 57m,Drama,177.0,150+ min,2–3 hrs
+Lonely Planet,5.7,12000.0,1h 34m,Drama,94.0,Standard,< 2 hrs
+Loveable,7.7,2600.0,1h 41m,Drama,101.0,Standard,< 2 hrs
+Ordinary Angels,7.4,16000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Bring Them Down,6.5,4300.0,1h 46m,Drama,106.0,Standard,< 2 hrs
+Reagan,6.1,12000.0,2h 21m,Drama,141.0,120-150 min,2–3 hrs
+Joy,7.1,10000.0,1h 55m,Drama,115.0,Standard,< 2 hrs
+First Shift,4.5,2100.0,1h 29m,Drama,89.0,Short,< 2 hrs
+Before We Forget,7.5,142.0,1h 48m,Drama,108.0,Standard,< 2 hrs
+All of You,7.4,86.0,1h 38m,Drama,98.0,Standard,< 2 hrs
+Lilies Not for Me,7.0,694.0,1h 39m,Drama,99.0,Standard,< 2 hrs
+Familiar Touch,7.1,348.0,1h 30m,Drama,90.0,Standard,< 2 hrs
+Vermiglio,6.9,5000.0,1h 59m,Drama,119.0,Standard,< 2 hrs
+Dreams (Sex Love),7.6,774.0,1h 50m,Drama,110.0,Standard,< 2 hrs
+Girls Will Be Girls,7.1,2800.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Emmanuelle,4.1,1900.0,1h 47m,Drama,107.0,Standard,< 2 hrs
+Back to Black,6.3,27000.0,2h 2m,Drama,122.0,120-150 min,2–3 hrs
+Green Bones,7.1,444.0,1h 36m,Drama,96.0,Standard,< 2 hrs
+Restless,6.3,516.0,1h 29m,Drama,89.0,Short,< 2 hrs
+Unstoppable,6.8,4500.0,1h 56m,Drama,116.0,Standard,< 2 hrs
+Omni Loop,5.6,3300.0,1h 52m,Drama,112.0,Standard,< 2 hrs
+"Oh, Canada",5.6,2300.0,1h 31m,Drama,91.0,Standard,< 2 hrs
+A Mistake,5.6,1100.0,1h 41m,Drama,101.0,Standard,< 2 hrs
+Killer Heat,5.6,14000.0,1h 35m,Drama,95.0,Standard,< 2 hrs
+"Canadian, Sniper",3.4,366.0,1h 23m,Drama,83.0,Short,< 2 hrs
+Bob Marley: One Love,6.2,35000.0,1h 47m,Drama,107.0,Standard,< 2 hrs
+Scoop,6.5,21000.0,1h 42m,Drama,102.0,Standard,< 2 hrs
+Look Back,7.8,16000.0,,Drama,,150+ min,3–4 hrs
+Black Dog,7.2,3700.0,1h 56m,Drama,116.0,Standard,< 2 hrs
+Santosh,7.1,2500.0,2h 8m,Drama,128.0,120-150 min,2–3 hrs
+Four Letters of Love,6.9,54.0,2h 5m,Drama,125.0,120-150 min,2–3 hrs
+Manjummel Boys,8.2,28000.0,2h 15m,Drama,135.0,120-150 min,2–3 hrs
+Sarfira,6.9,11000.0,2h 35m,Drama,155.0,150+ min,2–3 hrs
+Gaslit by My Husband: The Morgan Metzer Story,6.3,422.0,1h 28m,Drama,88.0,Short,< 2 hrs
+The End,5.4,2300.0,2h 28m,Drama,148.0,120-150 min,2–3 hrs
+Palayam PC,5.3,806.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+April,6.5,593.0,2h 14m,Drama,134.0,120-150 min,2–3 hrs
+"From Hilde, with Love",6.9,1200.0,2h 5m,Drama,125.0,120-150 min,2–3 hrs
+King Ivory,7.1,77.0,2h 10m,Drama,130.0,120-150 min,2–3 hrs
+La Cocina,7.1,3700.0,2h 19m,Drama,139.0,120-150 min,2–3 hrs
+Caught by the Tides,6.7,1600.0,1h 51m,Drama,111.0,Standard,< 2 hrs
+Kishkindha Kaandam,8.0,13000.0,2h 13m,Drama,133.0,120-150 min,2–3 hrs
+"Husband, Father, Killer: The Alyssa Pladl Story",6.2,344.0,1h 27m,Drama,87.0,Short,< 2 hrs
+The Goat Life,7.1,48000.0,2h 53m,Drama,173.0,150+ min,2–3 hrs
+The Tearsmith,5.2,13000.0,1h 43m,Drama,103.0,Standard,< 2 hrs
+Barron's Cove,6.1,185.0,1h 56m,Drama,116.0,Standard,< 2 hrs
+Sector 36,7.1,26000.0,2h 3m,Drama,123.0,120-150 min,2–3 hrs
+Touch,7.4,5900.0,2h 1m,Drama,121.0,120-150 min,2–3 hrs
+The Greatest Hits,6.2,7700.0,1h 34m,Drama,94.0,Standard,< 2 hrs
+The Short Game,,,1h 33m,Drama,93.0,Standard,< 2 hrs
+Three Kilometres to the End of the World,7.1,1200.0,1h 45m,Drama,105.0,Standard,< 2 hrs
+We Were Dangerous,6.4,417.0,1h 23m,Drama,83.0,Short,< 2 hrs
+Dismissed,7.8,105.0,1h 31m,Drama,91.0,Standard,< 2 hrs
+Cabrini,7.3,9100.0,2h 22m,Drama,142.0,120-150 min,2–3 hrs
+High Tide,6.5,729.0,1h 41m,Drama,101.0,Standard,< 2 hrs
+Tina,8.2,568.0,2h 4m,Drama,124.0,120-150 min,2–3 hrs
+The Piano Lesson,6.2,5100.0,2h 7m,Drama,127.0,120-150 min,2–3 hrs
+Diva Futura,6.1,520.0,2h 5m,Drama,125.0,120-150 min,2–3 hrs
+Bonhoeffer: Pastor. Spy. Assassin.,6.2,3900.0,2h 13m,Drama,133.0,120-150 min,2–3 hrs
+Let Go,7.0,6700.0,1h 50m,Drama,110.0,Standard,< 2 hrs
+The Forge,6.7,5200.0,2h 4m,Drama,124.0,120-150 min,2–3 hrs
+Intoxicated by Love,8.5,14000.0,1h 58m,Drama,118.0,Standard,< 2 hrs
+Juna Furniture,7.8,537.0,2h 24m,Drama,144.0,120-150 min,2–3 hrs
+Harvest,6.2,497.0,2h 11m,Drama,131.0,120-150 min,2–3 hrs
+Private Tutor,4.9,224.0,1h 5m,Drama,65.0,Short,< 2 hrs
+The Girl in the Pool,4.3,1600.0,1h 29m,Drama,89.0,Short,< 2 hrs
+When Fall Is Coming,6.9,2300.0,1h 44m,Drama,104.0,Standard,< 2 hrs
+Vulcanizadora,6.2,329.0,1h 25m,Drama,85.0,Short,< 2 hrs
+Sebastian,6.7,2100.0,1h 50m,Drama,110.0,Standard,< 2 hrs
+Beating Hearts,7.0,6000.0,2h 46m,Drama,166.0,150+ min,2–3 hrs
+Millers in Marriage,5.3,503.0,1h 57m,Drama,117.0,Standard,< 2 hrs
+The Knife,7.0,51.0,1h 22m,Drama,82.0,Short,< 2 hrs
+L'attachement,7.3,598.0,1h 46m,Drama,106.0,Standard,< 2 hrs
+Blue Cave,5.3,6900.0,1h 28m,Drama,88.0,Short,< 2 hrs
+Hakki,6.6,171.0,1h 35m,Drama,95.0,Standard,< 2 hrs
+Wicked,7.4,170000.0,2h 40m,Romance,160.0,150+ min,2–3 hrs
+Love Across Time,7.1,798.0,,Romance,,150+ min,3–4 hrs
+Sidelined: The QB and Me,5.8,4100.0,1h 39m,Romance,99.0,Standard,< 2 hrs
+Lick,6.1,992.0,1h 15m,Romance,75.0,Short,< 2 hrs
+Girl Haunts Boy,6.3,3400.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Love,7.3,547.0,1h 59m,Romance,119.0,Standard,< 2 hrs
+Sex Love Venice,4.4,368.0,1h 42m,Romance,102.0,Standard,< 2 hrs
+Wanted: Girlfriend,4.2,238.0,,Romance,,150+ min,3–4 hrs
+Drawing Closer,7.6,2800.0,1h 58m,Romance,118.0,Standard,< 2 hrs
+Someone Like You,5.9,2300.0,1h 58m,Romance,118.0,Standard,< 2 hrs
+Sex,6.6,1500.0,1h 58m,Romance,118.0,Standard,< 2 hrs
+Uranus 2324,6.4,4900.0,2h 10m,Romance,130.0,120-150 min,2–3 hrs
+Eks,4.5,211.0,2h 1m,Romance,121.0,120-150 min,2–3 hrs
+Given 3: To the Sea,7.5,146.0,1h 20m,Romance,80.0,Short,< 2 hrs
+Mor Chhainha Bhuinya 2,7.4,127.0,2h 40m,Romance,160.0,150+ min,2–3 hrs
+Addition,8.3,32.0,1h 31m,Romance,91.0,Standard,< 2 hrs
+A True Gentleman,4.5,2300.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Grand Tour,6.5,2100.0,2h 9m,Romance,129.0,120-150 min,2–3 hrs
+A Christmas Castle Proposal: A Royal in Paradise 2,6.4,343.0,,Romance,,150+ min,3–4 hrs
+Take My Hand,6.2,342.0,1h 42m,Romance,102.0,Standard,< 2 hrs
+Haunted Heart,4.8,517.0,2h 8m,Romance,128.0,120-150 min,2–3 hrs
+Detective Conan: The Million-Dollar Pentagram,6.7,1600.0,1h 51m,Romance,111.0,Standard,< 2 hrs
+Another End,6.4,840.0,1h 59m,Romance,119.0,Standard,< 2 hrs
+Silent Love,6.4,435.0,1h 56m,Romance,116.0,Standard,< 2 hrs
+Qalb,6.5,2400.0,2h 27m,Romance,147.0,120-150 min,2–3 hrs
+Romance on the Ranch,6.8,409.0,1h 28m,Romance,88.0,Short,< 2 hrs
+Siddharth Roy,6.3,2900.0,2h 28m,Romance,148.0,120-150 min,2–3 hrs
+Black Tea,5.2,607.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Rasavathi,6.4,590.0,2h 28m,Romance,148.0,120-150 min,2–3 hrs
+My Name Is Loh Kiwan,6.7,4500.0,2h 11m,Romance,131.0,120-150 min,2–3 hrs
+Aichaku,7.0,388.0,1h 58m,Romance,118.0,Standard,< 2 hrs
+Art of Love,4.6,2500.0,1h 39m,Romance,99.0,Standard,< 2 hrs
+Given the Movie: Hiiragi Mix,7.6,234.0,1h 10m,Romance,70.0,Short,< 2 hrs
+From Contract Lover to the Billionaire's Bride,6.9,554.0,1h 24m,Romance,84.0,Short,< 2 hrs
+Why Do You?,5.3,475.0,1h 43m,Romance,103.0,Standard,< 2 hrs
+Amar Singh Chamkila,7.8,16000.0,2h 25m,Romance,145.0,120-150 min,2–3 hrs
+Hear Me: Our Summer,7.5,933.0,1h 49m,Romance,109.0,Standard,< 2 hrs
+The Air He Breathes,6.5,429.0,1h 46m,Romance,106.0,Standard,< 2 hrs
+Krista,5.6,60.0,,Romance,,150+ min,3–4 hrs
+Mascarpone: The Rainbow Cake,6.0,541.0,1h 45m,Romance,105.0,Standard,< 2 hrs
+Dandelion,5.3,415.0,1h 53m,Romance,113.0,Standard,< 2 hrs
+The Groomsmen Last Dance,6.9,378.0,1h 24m,Romance,84.0,Short,< 2 hrs
+The Glory of Life,6.6,457.0,1h 38m,Romance,98.0,Standard,< 2 hrs
+Blue Sun Palace,6.6,217.0,1h 56m,Romance,116.0,Standard,< 2 hrs
+Pantaskah Aku Berhijab,8.0,79.0,1h 54m,Romance,114.0,Standard,< 2 hrs
+Stag,5.3,477.0,1h 27m,Romance,87.0,Short,< 2 hrs
+Players,5.7,12000.0,1h 45m,Romance,105.0,Standard,< 2 hrs
+Ashes,4.3,2700.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+The Time of Fever,8.0,741.0,1h 41m,Romance,101.0,Standard,< 2 hrs
+You Are the Apple of My Eye,6.9,3700.0,1h 41m,Romance,101.0,Standard,< 2 hrs
+Seven Seas Seven Hills,8.6,98.0,1h 30m,Romance,90.0,Standard,< 2 hrs
+Chanchal Haseena,7.3,39.0,1h 38m,Romance,98.0,Standard,< 2 hrs
+Bad Newz,4.7,26000.0,2h 22m,Romance,142.0,120-150 min,2–3 hrs
+Phir Aayi Hasseen Dillruba,5.8,7000.0,2h 12m,Romance,132.0,120-150 min,2–3 hrs
+Lesbian Space Princess,7.1,188.0,1h 27m,Romance,87.0,Short,< 2 hrs
+Plan B,6.1,1400.0,1h 30m,Romance,90.0,Standard,< 2 hrs
+I Can Never Be Yours,7.9,177.0,,Romance,,150+ min,3–4 hrs
+The Glassworker,7.2,1900.0,1h 38m,Romance,98.0,Standard,< 2 hrs
+A Vintage Christmas,6.5,370.0,,Romance,,150+ min,3–4 hrs
+My Ex's Wedding,8.8,56.0,1h 35m,Romance,95.0,Standard,< 2 hrs
+Reversi,7.0,298.0,2h 15m,Romance,135.0,120-150 min,2–3 hrs
+Los pequeños amores,6.3,386.0,1h 35m,Romance,95.0,Standard,< 2 hrs
+Futra Days,4.2,161.0,1h 39m,Romance,99.0,Standard,< 2 hrs
+Good Bad Things,5.8,239.0,1h 36m,Romance,96.0,Standard,< 2 hrs
+Angithee 3,8.1,64.0,1h 39m,Romance,99.0,Standard,< 2 hrs
+Breakup Season,6.3,608.0,1h 42m,Romance,102.0,Standard,< 2 hrs
+Ek Anjaan Rishtey Ka Guilt 3,8.0,70.0,1h 44m,Romance,104.0,Standard,< 2 hrs
+Badaa Saat Fi Yawman Ma,5.8,325.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Chosen Family,4.7,518.0,1h 28m,Romance,88.0,Short,< 2 hrs
+Joli joli,5.4,141.0,1h 56m,Romance,116.0,Standard,< 2 hrs
+Ancika,6.8,819.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Dilan 1983,6.3,246.0,1h 56m,Romance,116.0,Standard,< 2 hrs
+Him,7.4,31.0,1h 20m,Romance,80.0,Short,< 2 hrs
+Queens of Drama,6.2,219.0,1h 54m,Romance,114.0,Standard,< 2 hrs
+This Time Next Year,5.6,2400.0,1h 56m,Romance,116.0,Standard,< 2 hrs
+5lbs of Pressure,5.2,1700.0,1h 51m,Romance,111.0,Standard,< 2 hrs
+Christmas in the Spotlight,5.7,683.0,1h 27m,Romance,87.0,Short,< 2 hrs
+The Holiday Club,6.6,391.0,1h 28m,Romance,88.0,Short,< 2 hrs
+The Swedish Torpedo,6.0,263.0,,Romance,,150+ min,3–4 hrs
+My Boyfriend Is a Sex Worker,5.4,17.0,,Romance,,150+ min,3–4 hrs
+Love Li,6.4,13000.0,2h 48m,Romance,168.0,150+ min,2–3 hrs
+Paper Flowers,8.5,37.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Throuple,6.5,74.0,1h 32m,Romance,92.0,Standard,< 2 hrs
+A Country Music Christmas,6.6,105.0,,Romance,,150+ min,3–4 hrs
+Ram Bharosey,9.5,37.0,,Romance,,150+ min,3–4 hrs
+Umjolo: Day Ones,4.2,166.0,1h 26m,Romance,86.0,Short,< 2 hrs
+Silent Sparks,6.1,62.0,1h 18m,Romance,78.0,Short,< 2 hrs
+Marriage Mansion,8.6,25.0,,Romance,,150+ min,3–4 hrs
+Mafia Temptation,8.2,7.0,1h 22m,Romance,82.0,Short,< 2 hrs
+Passport to Love,6.2,427.0,1h 28m,Romance,88.0,Short,< 2 hrs
+Paalum Pazhavum,4.9,190.0,2h 27m,Romance,147.0,120-150 min,2–3 hrs
+3391 Kilometres,4.3,1200.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Here Now,4.9,481.0,1h 58m,Romance,118.0,Standard,< 2 hrs
+Murder Mubarak,5.8,51000.0,2h 20m,Romance,140.0,120-150 min,2–3 hrs
+First Taste,5.7,319.0,1h 37m,Romance,97.0,Standard,< 2 hrs
+Música,6.4,5100.0,1h 31m,Romance,91.0,Standard,< 2 hrs
+Ipar Adalah Maut,7.0,1300.0,2h 11m,Romance,131.0,120-150 min,2–3 hrs
+Blame the Game,5.4,5300.0,1h 32m,Romance,92.0,Standard,< 2 hrs
+Cinderella's Revenge,3.7,1200.0,1h 25m,Romance,85.0,Short,< 2 hrs
+Freedom,5.9,1400.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Tillu Square,6.6,3500.0,2h 17m,Romance,137.0,120-150 min,2–3 hrs
+18×2 Beyond Youthful Days,7.3,2000.0,2h 3m,Romance,123.0,120-150 min,2–3 hrs
+0000 Kilometre,2.7,272.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+He Loves Me Not,6.8,55.0,1h 37m,Romance,97.0,Standard,< 2 hrs
+The Southern Chronicles,8.7,2900.0,,Romance,,150+ min,3–4 hrs
+Love Switch,6.1,278.0,1h 29m,Romance,89.0,Short,< 2 hrs
+Rose Rosy Te Gulab,5.8,316.0,2h 15m,Romance,135.0,120-150 min,2–3 hrs
+Still Fabulous,4.9,877.0,1h 32m,Romance,92.0,Standard,< 2 hrs
+Auron Mein Kahan Dum Tha,6.4,41000.0,2h 30m,Romance,150.0,120-150 min,2–3 hrs
+Darkest Miriam,5.8,322.0,1h 27m,Romance,87.0,Short,< 2 hrs
+Her Seyin Basi Merkür,3.3,449.0,1h 45m,Romance,105.0,Standard,< 2 hrs
+Undergrads,5.1,65.0,1h 6m,Romance,66.0,Short,< 2 hrs
+Savi,6.1,35000.0,2h 6m,Romance,126.0,120-150 min,2–3 hrs
+Love Reddy,8.0,2300.0,2h 18m,Romance,138.0,120-150 min,2–3 hrs
+Jatt & Juliet 3,5.4,1800.0,2h 15m,Romance,135.0,120-150 min,2–3 hrs
+Guilty Pleasure,4.7,176.0,1h 59m,Romance,119.0,Standard,< 2 hrs
+Yuva,5.7,850.0,2h 33m,Romance,153.0,150+ min,2–3 hrs
+Chijin no ai,8.4,7.0,1h 45m,Romance,105.0,Standard,< 2 hrs
+Gelin Takimi,3.9,6100.0,1h 49m,Romance,109.0,Standard,< 2 hrs
+Layla,6.1,464.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Miss You,6.1,3200.0,2h 8m,Romance,128.0,120-150 min,2–3 hrs
+We're All Gonna Die,8.2,97.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+My Future You,7.4,298.0,1h 49m,Romance,109.0,Standard,< 2 hrs
+"Love, Divided",6.0,4800.0,1h 38m,Romance,98.0,Standard,< 2 hrs
+Love Story,5.4,443.0,2h 5m,Romance,125.0,120-150 min,2–3 hrs
+"Hello, Love, Again",6.7,942.0,2h 2m,Romance,122.0,120-150 min,2–3 hrs
+The Holiday Exchange,5.6,423.0,1h 30m,Romance,90.0,Standard,< 2 hrs
+Mr. Manhattan,6.8,477.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Five Blind Dates,5.1,2000.0,1h 23m,Romance,83.0,Short,< 2 hrs
+Mai,6.8,1600.0,2h 11m,Romance,131.0,120-150 min,2–3 hrs
+Her Story,7.6,2000.0,2h 3m,Romance,123.0,120-150 min,2–3 hrs
+Honeymoonish,5.3,1600.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Mr. Bachchan,3.6,5300.0,2h 30m,Romance,150.0,120-150 min,2–3 hrs
+When in Rome,6.1,794.0,1h 38m,Romance,98.0,Standard,< 2 hrs
+Miracle Mile,7.6,37.0,1h 22m,Romance,82.0,Short,< 2 hrs
+Trisha on the Rocks,5.2,3000.0,2h 52m,Romance,172.0,150+ min,2–3 hrs
+Romeo,6.1,1300.0,2h 30m,Romance,150.0,120-150 min,2–3 hrs
+Wild Wild Punjab,6.2,16000.0,1h 49m,Romance,109.0,Standard,< 2 hrs
+Previously Saved Version,5.5,463.0,1h 57m,Romance,117.0,Standard,< 2 hrs
+Season of Love,5.0,417.0,2h 6m,Romance,126.0,120-150 min,2–3 hrs
+Umjolo: The Gone Girl,4.4,285.0,1h 32m,Romance,92.0,Standard,< 2 hrs
+Christmas at Plumhill Manor,6.1,506.0,1h 27m,Romance,87.0,Short,< 2 hrs
+Ibbani Tabbida Ileyali,7.4,872.0,2h 40m,Romance,160.0,150+ min,2–3 hrs
+The Lifeguards,3.8,145.0,1h 47m,Romance,107.0,Standard,< 2 hrs
+Raseeli Raatein,6.7,12.0,1h 31m,Romance,91.0,Standard,< 2 hrs
+Maybe Forever,6.1,93.0,1h 11m,Romance,71.0,Short,< 2 hrs
+Believe in Christmas,6.1,858.0,1h 30m,Romance,90.0,Standard,< 2 hrs
+Un/Happy for You,5.7,416.0,1h 50m,Romance,110.0,Standard,< 2 hrs
+Samana Sunrise,5.0,250.0,1h 40m,Romance,100.0,Standard,< 2 hrs
+Meet Me Next Christmas,5.7,8600.0,1h 45m,Romance,105.0,Standard,< 2 hrs
+Varshangalkku Shesham,6.6,4200.0,2h 46m,Romance,166.0,150+ min,2–3 hrs

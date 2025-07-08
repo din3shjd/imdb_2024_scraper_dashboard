@@ -1,0 +1,251 @@
+Movie_Name,Rating,Voting_Counts,Duration_Total,Genre
+Gladiator II,6.5,255K,2h 28m,Action
+Dune: Part Two,8.5,645K,2h 46m,Action
+Fight or Flight,6.4,15K,1h 42m,Action
+Twisters,6.5,176K,2h 2m,Action
+Kraven the Hunter,5.5,64K,2h 7m,Action
+Deadpool & Wolverine,7.5,509K,2h 8m,Action
+The Ministry of Ungentlemanly Warfare,6.8,140K,2h 2m,Action
+Sonic the Hedgehog 3,6.9,66K,1h 50m,Action
+Carry-On,6.5,173K,1h 59m,Action
+Civil War,7.0,244K,1h 49m,Action
+The Beekeeper,6.3,163K,1h 45m,Action
+Venom: The Last Dance,6.0,131K,1h 50m,Action
+Furiosa: A Mad Max Saga,7.5,292K,2h 28m,Action
+Land of Bad,6.6,53K,1h 53m,Action
+The Fall Guy,6.8,228K,2h 6m,Action
+The Count of Monte-Cristo,7.6,38K,2h 58m,Action
+Road House,6.2,171K,2h 1m,Action
+Rebel Ridge,6.8,91K,2h 11m,Action
+Role Play,5.5,19K,1h 40m,Action
+Argylle,5.6,94K,2h 19m,Action
+40 Acres,6.9,448,1h 53m,Action
+Borderlands,4.7,51K,1h 41m,Action
+Transformers One,7.6,55K,1h 44m,Action
+Freaky Tales,6.2,7.5K,1h 47m,Action
+The Unholy Trinity,6.0,559,1h 35m,Action
+The Killer,5.7,14K,2h 6m,Action
+Damsel,6.1,112K,1h 50m,Action
+Madame Web,4.1,104K,1h 56m,Action
+William Tell,5.7,3.2K,2h 14m,Action
+The Union,5.4,54K,1h 47m,Action
+Bad Boys: Ride or Die,6.5,103K,1h 55m,Action
+Dirty Angels,4.4,4.2K,1h 44m,Action
+Kingdom of the Planet of the Apes,6.8,155K,2h 25m,Action
+The Crow,4.7,37K,1h 51m,Action
+Maharaja,8.4,71K,2h 21m,Action
+Godzilla x Kong: The New Empire,6.0,124K,1h 55m,Action
+Homestead,5.2,4.2K,1h 52m,Action
+Absolution,5.2,9K,1h 52m,Action
+Monkey Man,6.8,94K,2h 1m,Action
+Red One,6.3,143K,2h 3m,Action
+The Instigators,6.2,39K,1h 41m,Action
+The Lord of the Rings: The War of the Rohirrim,6.3,33K,2h 14m,Action
+Old Guy,5.2,3.2K,1h 34m,Action
+Kung Fu Panda 4,6.3,71K,1h 34m,Action
+Drive-Away Dolls,5.4,24K,1h 24m,Action
+Elevation,5.6,24K,1h 31m,Action
+Survive,4.6,3.2K,1h 30m,Action
+The Killer's Game,5.8,18K,1h 44m,Action
+Arcadian,5.5,25K,1h 32m,Action
+Lift,5.5,50K,1h 47m,Action
+Take Cover,5.1,2.9K,1h 30m,Action
+Thelma,7.0,24K,1h 38m,Action
+Attack on Titan the Movie: The Last Attack,9.1,18K,2h 25m,Action
+Beverly Hills Cop: Axel F,6.4,83K,1h 58m,Action
+Relay,7.4,137,1h 52m,Action
+Blitz,6.2,17K,N/A,Action
+Uglies,4.7,34K,1h 40m,Action
+Apocalypse Z: The Beginning of the End,6.1,21K,1h 57m,Action
+Atlas,5.6,57K,1h 58m,Action
+Gunner,3.2,2.9K,1h 46m,Action
+Pushpa: The Rule - Part 2,6.1,59K,3h 21m,Action
+Azrael,5.4,12K,1h 26m,Action
+The Prosecutor,6.6,2.7K,1h 57m,Action
+Canary Black,5.4,12K,1h 41m,Action
+Solo Leveling: ReAwakening,8.8,14K,2h 1m,Action
+Under Paris,5.2,37K,1h 44m,Action
+Brothers,5.4,14K,1h 29m,Action
+Marco,6.7,23K,2h 25m,Action
+The Fix,4.7,1.6K,1h 38m,Action
+Jackpot!,5.8,31K,1h 46m,Action
+Trigger Warning,4.6,20K,1h 46m,Action
+Kalki 2898 AD,7.0,68K,N/A,Action
+Hellboy: The Crooked Man,4.5,15K,1h 39m,Action
+The Silent Hour,6.1,8.4K,1h 39m,Action
+Night Call,6.7,2.5K,1h 37m,Action
+Rebel Moon - Part Two: The Scargiver,5.3,60K,2h 2m,Action
+Ghost Killer,6.8,87,1h 45m,Action
+The Shadow Strays,6.5,9.7K,2h 24m,Action
+11 Rebels,6.3,723,2h 35m,Action
+Karma,7.9,1.5K,2h 47m,Action
+Boneyard,4.1,5.2K,1h 36m,Action
+Uprising,6.6,6K,2h 6m,Action
+Elyas,6.1,1.6K,1h 45m,Action
+Fighter,6.2,53K,2h 46m,Action
+Aavesham,7.8,29K,2h 35m,Action
+Devara Part 1,6.0,21K,2h 56m,Action
+Amaran,8.1,20K,2h 47m,Action
+Weekend in Taipei,5.7,5.4K,1h 40m,Action
+Twilight of the Warriors: Walled In,6.9,10K,2h 6m,Action
+Descendants: The Rise of Red,4.7,7.3K,1h 31m,Action
+Aftermath,5.1,4.4K,1h 37m,Action
+Blood Star,6.4,6.2K,1h 37m,Action
+Red Right Hand,5.5,6.1K,1h 51m,Action
+Werewolves,4.4,7.6K,1h 33m,Action
+Baby John,5.1,17K,2h 39m,Action
+Ultraman: Rising,6.9,6.7K,1h 57m,Action
+Dan Da Dan: First Encounter,8.2,3K,1h 23m,Action
+Watchmen: Chapter I,7.1,7K,1h 23m,Action
+Escape from the 21st Century,6.4,1K,1h 38m,Action
+I Am What I Am 2,7.5,385,2h 14m,Action
+My Spy: The Eternal City,5.7,11K,1h 52m,Action
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,7.2,8.8K,1h 44m,Action
+Saripodhaa Sanivaaram,7.0,10K,2h 46m,Action
+The Quiet Ones,6.1,1.1K,1h 50m,Action
+Justice League: Crisis on Infinite Earths - Part One,6.2,8.8K,1h 33m,Action
+Cash Out,4.8,3.2K,1h 32m,Action
+Justice League: Crisis on Infinite Earths - Part Three,6.0,4.8K,1h 34m,Action
+The Family Star,5.4,5.6K,2h 39m,Action
+Stand Your Ground,4.7,245,1h 40m,Action
+Damaged,4.7,7.6K,1h 37m,Action
+Singham Again,4.6,75K,2h 24m,Action
+Chief of Station,4.7,4.8K,1h 37m,Action
+Utopia,3.7,435,1h 31m,Action
+Paradox Effect,5.9,9.6K,1h 27m,Action
+Badland Hunters,5.9,13K,1h 47m,Action
+Code 8: Part II,5.7,16K,1h 40m,Action
+Armor,3.6,4.6K,1h 29m,Action
+Officer Black Belt,6.9,8.8K,1h 48m,Action
+Justice League: Crisis on Infinite Earths - Part Two,5.5,5.6K,1h 34m,Action
+Chandu Champion,7.8,35K,2h 22m,Action
+Revolver,5.4,926,1h 54m,Action
+Cloud,6.3,1.6K,2h 4m,Action
+Duchess,4.6,1.6K,1h 54m,Action
+My Hero Academia: You're Next,6.9,2.6K,1h 50m,Action
+Watchmen: Chapter II,7.1,3.5K,1h 30m,Action
+Agni,7.2,15K,2h 2m,Action
+Striking Rescue,5.6,699,1h 51m,Action
+Drive Back,4.5,652,1h 34m,Action
+Thangalaan,6.5,6.8K,2h 36m,Action
+The Thundermans Return,5.0,1.9K,1h 10m,Action
+Alien: Rubicon,2.5,464,1h 26m,Action
+Cells at Work!,6.7,918,1h 49m,Action
+A.R.M,7.1,9K,2h 30m,Action
+Matka,4.7,608,2h 36m,Action
+The Twisters,2.6,429,1h 26m,Action
+Wynonna Earp: Vengeance,5.5,1.7K,1h 36m,Action
+Long Gone Heroes,5.1,1.3K,1h 41m,Action
+Dominique,5.3,2.4K,1h 40m,Action
+Prey,3.7,3.5K,1h 26m,Action
+Sasan,8.8,90,2h 35m,Action
+Agent Recon,2.4,756,1h 25m,Action
+Life After Fighting,6.4,2.2K,2h 6m,Action
+No Way Up,4.6,11K,1h 30m,Action
+Trouble,6.2,7.2K,1h 38m,Action
+Vedaa,6.0,4.5K,2h 25m,Action
+The Courier,6.0,4.6K,1h 41m,Action
+Toofan,7.3,8.7K,2h 25m,Action
+One Fast Move,5.0,2.3K,1h 48m,Action
+Everybody Loves Jenifa,8.3,98,2h 15m,Action
+Baby Assassins: Nice Days,7.2,356,1h 43m,Action
+Bougainvillea,6.4,3.4K,2h 18m,Action
+Classified,3.7,2.8K,1h 45m,Action
+The Roundup: Punishment,6.6,5.7K,1h 49m,Action
+Bagheera,6.7,7.6K,2h 38m,Action
+River of Blood,5.0,2K,1h 26m,Action
+Hitpig,5.1,1.1K,1h 26m,Action
+Latency,4.2,3K,1h 34m,Action
+The Last Front,5.5,640,1h 38m,Action
+The Greatest of All Time,5.7,23K,3h 3m,Action
+Guntur Kaaram,5.4,25K,2h 39m,Action
+One More Shot,5.4,3.8K,1h 43m,Action
+Hagen,6.1,1.4K,2h 19m,Action
+Big City Greens the Movie: Spacecation,6.2,587,1h 23m,Action
+Pani,6.9,3.4K,2h 23m,Action
+Kill Em All 2,4.1,1.4K,1h 28m,Action
+Raayan,6.5,11K,2h 25m,Action
+Harbin,6.2,985,1h 48m,Action
+Sikandar Ka Muqaddar,5.9,25K,2h 22m,Action
+Kanguva,4.5,15K,2h 32m,Action
+Invasion,4.8,755,1h 31m,Action
+The Price of Money: A Largo Winch Adventure,5.1,1.3K,1h 40m,Action
+Martin,2.2,36K,2h 27m,Action
+Despatch,4.4,4.5K,2h 33m,Action
+Uch Qahramon,7.3,105,N/A,Action
+Escape,6.4,2.2K,1h 34m,Action
+Levels,5.0,1.6K,1h 33m,Action
+Pins & Needles,6.7,23,1h 35m,Action
+The Clean Up Crew,4.2,1.3K,1h 35m,Action
+Khadaan,7.0,2.2K,2h 17m,Action
+Shark Warning,3.5,376,1h 34m,Action
+Viduthalai Part 2,7.8,17K,2h 50m,Action
+Por,5.1,627,2h 34m,Action
+Rifle Club,7.0,4.6K,1h 53m,Action
+Bureau 749,3.9,582,2h 3m,Action
+Gandhi 3,5.7,247,2h 23m,Action
+Shoutai,6.8,709,N/A,Action
+Devil's Knight,5.3,966,1h 30m,Action
+Hounds of War,4.5,2K,1h 35m,Action
+Overlord: The Sacred Kingdom,6.9,1.5K,2h 15m,Action
+The Waves of Madness,5.8,112,1h 8m,Action
+Handsome Guys,6.5,976,1h 41m,Action
+Mafia Wars,3.6,289,1h 38m,Action
+Baby Invasion,4.6,589,1h 20m,Action
+Article 370,7.8,25K,2h 38m,Action
+Bachhala Malli,8.2,4K,2h 20m,Action
+In the Fire of War,7.1,209,1h 55m,Action
+Je Jatt Vigarh Gya,5.6,836,2h 12m,Action
+DNA,5.1,218,2h 36m,Action
+Bidurbhai,9.1,413,2h 28m,Action
+Anaconda,4.9,673,1h 24m,Action
+Rats!,6.5,207,1h 25m,Action
+Megamind vs. The Doom Syndicate,2.5,5.7K,1h 23m,Action
+Darkness of Man,4.7,3.3K,1h 49m,Action
+Lights Out,4.9,1.9K,1h 30m,Action
+Spiders on a Plane,4.7,401,1h 18m,Action
+Eye for an Eye 2,6.6,554,1h 30m,Action
+Fighting the Fire,8.2,1.7K,1h 55m,Action
+Dark Match,5.4,1.2K,1h 34m,Action
+Air Force One Down,4.4,3K,1h 24m,Action
+Uninvited,5.6,341,1h 33m,Action
+Peter Five Eight,3.5,1.1K,1h 40m,Action
+Sons of Rizk 3,6.6,1.8K,2h 5m,Action
+Bade Miyan Chote Miyan,3.8,39K,2h 43m,Action
+City Hunter,6.3,5.8K,1h 42m,Action
+Yodha,5.7,9K,2h 10m,Action
+Where Is Gilgamesh?,8.9,640,1h 30m,Action
+The Waiter,8.2,30,N/A,Action
+The Tiger's Apprentice,5.8,2.3K,1h 24m,Action
+Murder Company,3.6,1.6K,1h 26m,Action
+The Wages of Fear,4.6,4.2K,1h 44m,Action
+S.T.A.L.K.E.R.: Shadow of the Zone,4.8,643,1h 11m,Action
+Golden Kamuy,6.3,2.7K,2h 7m,Action
+Kuang Bao Ju Xi,5.6,86,1h 15m,Action
+Kallu Compound 1995,7.9,2K,2h 20m,Action
+How to Rob a Bank,6.6,4.3K,1h 28m,Action
+Terminator: Skynet Rising,6.7,283,1h 28m,Action
+Yudhra,4.9,13K,2h 22m,Action
+Continental Split,3.5,571,1h 28m,Action
+The Ballad of Davy Crockett,4.6,265,1h 36m,Action
+The Last Kumite,4.6,2.4K,1h 45m,Action
+Sunray: Fallen Soldier,4.3,706,1h 55m,Action
+Hanu Man,7.7,29K,2h 38m,Action
+A Legend,4.7,1K,2h 9m,Action
+War of the Worlds: Extinction,3.0,218,1h 24m,Action
+Mobile Suit Gundam SEED Freedom,6.6,984,2h 4m,Action
+Snow White and the Seven Samurai,3.2,315,1h 28m,Action
+Panda Plan,5.1,1.5K,1h 39m,Action
+24 Hours to D-Day,3.5,85,1h 23m,Action
+Troubleshooters,6.4,436,1h 50m,Action
+Jigra,6.0,24K,2h 33m,Action
+Kizumonogatari: Koyomi Vamp,7.0,111,2h 24m,Action
+Black Heat,8.2,137,1h 33m,Action
+Crisis Negotiators,6.7,751,N/A,Action
+Sikaar,8.3,688,2h 30m,Action
+Hunt the Wicked,5.4,179,1h 42m,Action
+Die Hart 2: Die Harter,4.3,5.6K,1h 32m,Action
+Shekko,5.9,616,N/A,Action
+Vettaiyan,6.9,40K,2h 43m,Action
+Vanvaas,6.6,1.5K,2h 40m,Action
+"I, the Executioner",6.3,2K,1h 58m,Action
