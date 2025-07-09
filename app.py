@@ -1,6 +1,8 @@
-# app.py
-# IMDb 2024 Movie Dashboard - Streamlit App
-
+"""
+app.py
+IMDb 2024 Movie Dashboard - Streamlit App
+Visualizes and filters IMDb movie data.
+Dataset: data/csv/eda_cleaned.csv   """
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt

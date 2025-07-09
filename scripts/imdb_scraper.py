@@ -110,3 +110,9 @@ def scrape_genre_movies(genre: str, year: int = 2024, max_movies: int = 250, hea
 # Entry Point
 if __name__ == '__main__':
     scrape_genre_movies(genre='action', max_movies=250, headless=False)
+
+'''
+# Get multiple genre csv files at a single time run
+for g in ['action', 'comedy', 'drama', 'horror', 'romance']:
+    scrape_genre_movies(genre=g, max_movies=250)
+'''
